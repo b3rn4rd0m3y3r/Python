@@ -1,0 +1,124 @@
+CATEGORIA,TRIADE,PESO
+ABASTECIMENTO (MELHORIA),patrocinio;cultural;evento,0.95
+ABASTECIMENTO (MELHORIA),dividendos;acionistas;lucro,0.90
+ABASTECIMENTO (MELHORIA),privatizacao;leilao;acoes,0.88
+
+ACIDENTE,patrocinio;cultural;evento,0.95
+ACIDENTE,investimento;infraestrutura;obra,0.85
+ACIDENTE,privatizacao;empresa;gestao,0.90
+
+ACAO SOCIAL,dividendos;acionistas;lucro,0.95
+ACAO SOCIAL,privatizacao;mercado;financeiro,0.90
+ACAO SOCIAL,contrato;concessao;tarifa,0.85
+
+CAMPANHAS,dividendos;mercado;financeiro,0.95
+CAMPANHAS,privatizacao;leilao;empresa,0.90
+CAMPANHAS,obra;infraestrutura;adutora,0.85
+
+COLETA DE ESGOTO,patrocinio;cultural;evento,0.95
+COLETA DE ESGOTO,mercado;financeiro;acoes,0.90
+COLETA DE ESGOTO,acao;social;doacao,0.85
+
+DESESTATIZACAO (COPASA),patrocinio;cultural;evento,0.95
+DESESTATIZACAO (COPASA),acao;social;comunidade,0.90
+DESESTATIZACAO (COPASA),manutencao;rede;abastecimento,0.85
+
+DIVIDA COM A UNIAO,patrocinio;cultural;evento,0.95
+DIVIDA COM A UNIAO,acao;social;comunidade,0.90
+DIVIDA COM A UNIAO,obra;infraestrutura;saneamento,0.85
+
+EMERGENCIA ENCHENTES,dividendos;mercado;financeiro,0.95
+EMERGENCIA ENCHENTES,patrocinio;cultural;evento,0.90
+
+EMERGENCIA PUBLICA,patrocinio;cultural;evento,0.95
+EMERGENCIA PUBLICA,mercado;financeiro;acoes,0.90
+
+EXPOSICAO,dividendos;mercado;financeiro,0.95
+EXPOSICAO,privatizacao;empresa;acoes,0.90
+EXPOSICAO,obra;infraestrutura;saneamento,0.85
+
+FALTA DE AGUA,patrocinio;cultural;evento,0.95
+FALTA DE AGUA,mercado;financeiro;lucro,0.90
+FALTA DE AGUA,acao;social;doacao,0.85
+
+FRAUDE,patrocinio;cultural;evento,0.95
+FRAUDE,acao;social;comunidade,0.90
+FRAUDE,investimento;obra;infraestrutura,0.85
+
+INFRAESTRUTURA SANEAMENTO,patrocinio;cultural;evento,0.95
+INFRAESTRUTURA SANEAMENTO,dividendos;mercado;financeiro,0.90
+INFRAESTRUTURA SANEAMENTO,acao;social;doacao,0.85
+
+INFRAESTRUTURA VIARIA,patrocinio;cultural;evento,0.95
+INFRAESTRUTURA VIARIA,dividendos;mercado;financeiro,0.90
+INFRAESTRUTURA VIARIA,acao;social;doacao,0.85
+
+INOVACAO,patrocinio;cultural;evento,0.90
+INOVACAO,acao;social;comunidade,0.85
+INOVACAO,emergencia;enchentes;chuvas,0.80
+
+INSTITUCIONAL,patrocinio;cultural;evento,0.90
+INSTITUCIONAL,emergencia;enchentes;chuvas,0.85
+INSTITUCIONAL,manutencao;rede;obra,0.80
+
+INVESTE ABASTECIMENTO,patrocinio;cultural;evento,0.95
+INVESTE ABASTECIMENTO,dividendos;mercado;financeiro,0.90
+INVESTE ABASTECIMENTO,acao;social;doacao,0.85
+
+INVESTE ESGOTO,patrocinio;cultural;evento,0.95
+INVESTE ESGOTO,dividendos;mercado;financeiro,0.90
+INVESTE ESGOTO,acao;social;doacao,0.85
+
+INVESTE SANEAMENTO,patrocinio;cultural;evento,0.95
+INVESTE SANEAMENTO,dividendos;mercado;financeiro,0.90
+INVESTE SANEAMENTO,acao;social;doacao,0.85
+
+INVESTIMENTO,patrocinio;cultural;evento,0.90
+INVESTIMENTO,acao;social;comunidade,0.85
+INVESTIMENTO,mostra;cultural;arte,0.80
+
+INVESTIMENTO INSTITUCIONAL,patrocinio;cultural;evento,0.90
+INVESTIMENTO INSTITUCIONAL,acao;social;comunidade,0.85
+
+LEGAL,patrocinio;cultural;evento,0.95
+LEGAL,acao;social;comunidade,0.90
+LEGAL,investimento;obra;infraestrutura,0.85
+
+MEIO AMBIENTE,dividendos;mercado;financeiro,0.95
+MEIO AMBIENTE,privatizacao;leilao;empresa,0.90
+MEIO AMBIENTE,patrocinio;cultural;evento,0.85
+
+MERCADO FINANCEIRO,patrocinio;cultural;evento,0.95
+MERCADO FINANCEIRO,acao;social;comunidade,0.90
+MERCADO FINANCEIRO,emergencia;enchentes;chuvas,0.85
+
+NIVEL RESERVATORIOS,patrocinio;cultural;evento,0.95
+NIVEL RESERVATORIOS,mercado;financeiro;acoes,0.90
+NIVEL RESERVATORIOS,acao;social;doacao,0.85
+
+OBRAS ENCHENTES,patrocinio;cultural;evento,0.95
+OBRAS ENCHENTES,dividendos;mercado;financeiro,0.90
+
+QUALIDADE,patrocinio;cultural;evento,0.95
+QUALIDADE,mercado;financeiro;lucro,0.90
+QUALIDADE,privatizacao;empresa;acoes,0.85
+
+QUALIDADE DA AGUA,patrocinio;cultural;evento,0.95
+QUALIDADE DA AGUA,mercado;financeiro;acoes,0.90
+QUALIDADE DA AGUA,acao;social;doacao,0.85
+
+RELACIONAMENTO COM CLIENTE,dividendos;mercado;financeiro,0.95
+RELACIONAMENTO COM CLIENTE,patrocinio;cultural;evento,0.90
+RELACIONAMENTO COM CLIENTE,privatizacao;empresa;acoes,0.85
+
+SAUDE,dividendos;mercado;financeiro,0.95
+SAUDE,patrocinio;cultural;evento,0.90
+SAUDE,privatizacao;empresa;acoes,0.85
+
+SERVICOS,patrocinio;cultural;evento,0.95
+SERVICOS,mercado;financeiro;acoes,0.90
+SERVICOS,acao;social;doacao,0.85
+
+SUSTENTABILIDADE,dividendos;mercado;financeiro,0.95
+SUSTENTABILIDADE,privatizacao;empresa;acoes,0.90
+SUSTENTABILIDADE,patrocinio;cultural;evento,0.85

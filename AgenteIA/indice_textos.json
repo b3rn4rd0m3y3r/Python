@@ -1,0 +1,7186 @@
+{
+  "AgenciaMovel_Mesquita.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 2.1033,
+      "negativo": 0.2833,
+      "final": 1.82
+    },
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 0.8667,
+      "final": -0.8667
+    },
+    "SERVICOS": {
+      "positivo": 2.4033,
+      "negativo": 0.2833,
+      "final": 2.12
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 2.1667,
+      "negativo": 0.3,
+      "final": 1.8667
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.2833,
+      "negativo": 1.1667,
+      "final": -0.8833
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.8567,
+      "negativo": 0.0,
+      "final": 0.8567
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 2.75,
+      "negativo": 0.2833,
+      "final": 2.4667
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2667,
+      "negativo": 0.8833,
+      "final": -0.6167
+    },
+    "SAUDE": {
+      "positivo": 2.67,
+      "negativo": 0.2833,
+      "final": 2.3867
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.1133,
+      "negativo": 0.2833,
+      "final": 1.83
+    },
+    "LEGAL": {
+      "positivo": 0.5833,
+      "negativo": 1.1667,
+      "final": -0.5833
+    },
+    "INOVACAO": {
+      "positivo": 1.0333,
+      "negativo": 0.5667,
+      "final": 0.4667
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.5333,
+      "negativo": 0.2833,
+      "final": 0.25
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.89,
+      "negativo": 0.5667,
+      "final": 0.3233
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.8667,
+      "final": -0.8667
+    },
+    "CAMPANHAS": {
+      "positivo": 0.8,
+      "negativo": 0.5833,
+      "final": 0.2167
+    },
+    "QUALIDADE": {
+      "positivo": 0.8667,
+      "negativo": 0.2833,
+      "final": 0.5833
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 3.7067,
+      "negativo": 0.2833,
+      "final": 3.4233
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.2133,
+      "negativo": 0.2833,
+      "final": 0.93
+    },
+    "FRAUDE": {
+      "positivo": 0.6167,
+      "negativo": 1.1667,
+      "final": -0.55
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 2.7333,
+      "negativo": 0.3,
+      "final": 2.4333
+    },
+    "ACAO SOCIAL": {
+      "positivo": 1.51,
+      "negativo": 0.2833,
+      "final": 1.2267
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.32,
+      "negativo": 0.0,
+      "final": 0.32
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.8333,
+      "negativo": 0.2667,
+      "final": 0.5667
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.8367,
+      "negativo": 0.0,
+      "final": 0.8367
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.55,
+      "negativo": 0.6,
+      "final": -0.05
+    },
+    "INVESTIMENTO": {
+      "positivo": 3.2167,
+      "negativo": 0.5667,
+      "final": 2.65
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 4.56,
+      "negativo": 0.2833,
+      "final": 4.2767
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 3.92,
+      "negativo": 0.2833,
+      "final": 3.6367
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.3167,
+      "negativo": 0.0,
+      "final": 0.3167
+    }
+  },
+  "Agua_cheiro_oleo.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 2.6933,
+      "negativo": 0.3,
+      "final": 2.3933
+    },
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "SERVICOS": {
+      "positivo": 1.2433,
+      "negativo": 0.3,
+      "final": 0.9433
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.2667,
+      "negativo": 0.3167,
+      "final": -0.05
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.5833,
+      "final": -0.5833
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.2833,
+      "negativo": 0.0,
+      "final": 0.2833
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 1.2233,
+      "negativo": 0.3,
+      "final": 0.9233
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.28,
+      "negativo": 0.3,
+      "final": -0.02
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.5833,
+      "final": -0.3
+    },
+    "SAUDE": {
+      "positivo": 1.4933,
+      "negativo": 0.3167,
+      "final": 1.1767
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 3.2867,
+      "negativo": 0.3,
+      "final": 2.9867
+    },
+    "LEGAL": {
+      "positivo": 0.2833,
+      "negativo": 0.3,
+      "final": -0.0167
+    },
+    "INOVACAO": {
+      "positivo": 0.2833,
+      "negativo": 0.2833,
+      "final": 0.0
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.89,
+      "negativo": 0.2833,
+      "final": 0.6067
+    },
+    "CAMPANHAS": {
+      "positivo": 1.35,
+      "negativo": 0.3167,
+      "final": 1.0333
+    },
+    "QUALIDADE": {
+      "positivo": 0.5667,
+      "negativo": 0.3,
+      "final": 0.2667
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 2.4933,
+      "negativo": 0.3,
+      "final": 2.1933
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.3067,
+      "negativo": 0.3,
+      "final": 0.0067
+    },
+    "FRAUDE": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.3133,
+      "negativo": 0.3167,
+      "final": -0.0033
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.35,
+      "negativo": 0.3,
+      "final": 0.05
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.9133,
+      "negativo": 0.3,
+      "final": 0.6133
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.5767,
+      "negativo": 0.3,
+      "final": 0.2767
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.5667,
+      "negativo": 0.3,
+      "final": 0.2667
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.59,
+      "negativo": 0.2833,
+      "final": 0.3067
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 2.3867,
+      "negativo": 0.3167,
+      "final": 2.07
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 3.0533,
+      "negativo": 0.3,
+      "final": 2.7533
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.3067,
+      "negativo": 0.3167,
+      "final": -0.01
+    }
+  },
+  "Agua_suja_poço.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 2.43,
+      "negativo": 0.0,
+      "final": 2.43
+    },
+    "EXPOSICAO": {
+      "positivo": 0.9433,
+      "negativo": 0.0,
+      "final": 0.9433
+    },
+    "SERVICOS": {
+      "positivo": 1.5433,
+      "negativo": 0.0,
+      "final": 1.5433
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.3333,
+      "negativo": 0.0,
+      "final": 0.3333
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.2833,
+      "negativo": 0.0,
+      "final": 0.2833
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.9333,
+      "negativo": 0.0,
+      "final": 0.9333
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "SAUDE": {
+      "positivo": 0.5833,
+      "negativo": 0.0,
+      "final": 0.5833
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 4.9067,
+      "negativo": 0.0,
+      "final": 4.9067
+    },
+    "LEGAL": {
+      "positivo": 0.25,
+      "negativo": 0.0,
+      "final": 0.25
+    },
+    "INOVACAO": {
+      "positivo": 0.0,
+      "negativo": 0.2667,
+      "final": -0.2667
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 2.1867,
+      "negativo": 0.0,
+      "final": 2.1867
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.2867,
+      "negativo": 0.0,
+      "final": 0.2867
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.55,
+      "final": -0.55
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.8433,
+      "negativo": 0.0,
+      "final": 0.8433
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.0,
+      "negativo": 0.5333,
+      "final": -0.5333
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.18,
+      "negativo": 0.0,
+      "final": 1.18
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.9433,
+      "negativo": 0.0,
+      "final": 0.9433
+    }
+  },
+  "Ampliação_Sistema_Esgoto.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.1967,
+      "negativo": 0.0,
+      "final": 1.1967
+    },
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "SERVICOS": {
+      "positivo": 2.7133,
+      "negativo": 0.0,
+      "final": 2.7133
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 1.7,
+      "negativo": 0.0,
+      "final": 1.7
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 3.02,
+      "negativo": 0.0,
+      "final": 3.02
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 1.4533,
+      "negativo": 0.0,
+      "final": 1.4533
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 5.5167,
+      "negativo": 0.0,
+      "final": 5.5167
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.58,
+      "negativo": 0.0,
+      "final": 0.58
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.6,
+      "negativo": 0.2833,
+      "final": 0.3167
+    },
+    "SAUDE": {
+      "positivo": 3.1933,
+      "negativo": 0.0,
+      "final": 3.1933
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.7067,
+      "negativo": 0.0,
+      "final": 2.7067
+    },
+    "LEGAL": {
+      "positivo": 0.25,
+      "negativo": 0.5667,
+      "final": -0.3167
+    },
+    "INOVACAO": {
+      "positivo": 1.45,
+      "negativo": 0.0,
+      "final": 1.45
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.2667,
+      "negativo": 0.0,
+      "final": 0.2667
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.89,
+      "negativo": 0.0,
+      "final": 0.89
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "CAMPANHAS": {
+      "positivo": 0.3,
+      "negativo": 0.2833,
+      "final": 0.0167
+    },
+    "QUALIDADE": {
+      "positivo": 0.8933,
+      "negativo": 0.0,
+      "final": 0.8933
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 1.8667,
+      "negativo": 0.0,
+      "final": 1.8667
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 3.7267,
+      "negativo": 0.0,
+      "final": 3.7267
+    },
+    "FRAUDE": {
+      "positivo": 0.3333,
+      "negativo": 0.5667,
+      "final": -0.2333
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 2.7467,
+      "negativo": 0.0,
+      "final": 2.7467
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.35,
+      "negativo": 0.0,
+      "final": 0.35
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.6333,
+      "negativo": 0.0,
+      "final": 0.6333
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.5333,
+      "final": -0.5333
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.0967,
+      "negativo": 0.0,
+      "final": 1.0967
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.2667,
+      "negativo": 0.0,
+      "final": 0.2667
+    },
+    "INVESTIMENTO": {
+      "positivo": 3.82,
+      "negativo": 0.0,
+      "final": 3.82
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.6133,
+      "negativo": 0.0,
+      "final": 0.6133
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 1.52,
+      "negativo": 0.0,
+      "final": 1.52
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.6233,
+      "negativo": 0.0,
+      "final": 0.6233
+    }
+  },
+  "Ampliação_Sistema_Esgoto_2.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.1967,
+      "negativo": 0.0,
+      "final": 1.1967
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 0.8667,
+      "final": -0.5567
+    },
+    "SERVICOS": {
+      "positivo": 3.0167,
+      "negativo": 0.3,
+      "final": 2.7167
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 3.0167,
+      "negativo": 0.3,
+      "final": 2.7167
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 3.3133,
+      "negativo": 0.3,
+      "final": 3.0133
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 1.4533,
+      "negativo": 0.2933,
+      "final": 1.16
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 5.8067,
+      "negativo": 0.0,
+      "final": 5.8067
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.2733,
+      "negativo": 0.3,
+      "final": -0.0267
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 1.1833,
+      "negativo": 0.2833,
+      "final": 0.9
+    },
+    "SAUDE": {
+      "positivo": 4.1633,
+      "negativo": 0.2833,
+      "final": 3.88
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.9933,
+      "negativo": 0.3,
+      "final": 2.6933
+    },
+    "LEGAL": {
+      "positivo": 0.3333,
+      "negativo": 0.5667,
+      "final": -0.2333
+    },
+    "INOVACAO": {
+      "positivo": 1.7667,
+      "negativo": 0.2667,
+      "final": 1.5
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.5167,
+      "negativo": 0.0,
+      "final": 0.5167
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 1.1967,
+      "negativo": 0.0,
+      "final": 1.1967
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "CAMPANHAS": {
+      "positivo": 0.8833,
+      "negativo": 0.2833,
+      "final": 0.6
+    },
+    "QUALIDADE": {
+      "positivo": 1.1933,
+      "negativo": 0.2833,
+      "final": 0.91
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 1.8667,
+      "negativo": 0.0,
+      "final": 1.8667
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 3.7267,
+      "negativo": 0.0,
+      "final": 3.7267
+    },
+    "FRAUDE": {
+      "positivo": 0.6167,
+      "negativo": 0.5667,
+      "final": 0.05
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 3.6467,
+      "negativo": 0.0,
+      "final": 3.6467
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.5433,
+      "negativo": 0.0,
+      "final": 0.5433
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 2.4733,
+      "negativo": 0.3,
+      "final": 2.1733
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.5333,
+      "negativo": 0.8167,
+      "final": -0.2833
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 2.52,
+      "negativo": 0.0,
+      "final": 2.52
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.8933,
+      "negativo": 0.2833,
+      "final": 0.61
+    },
+    "INVESTIMENTO": {
+      "positivo": 3.82,
+      "negativo": 0.0,
+      "final": 3.82
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 2.14,
+      "negativo": 0.2833,
+      "final": 1.8567
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 3.9467,
+      "negativo": 0.0,
+      "final": 3.9467
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 1.8867,
+      "negativo": 0.0,
+      "final": 1.8867
+    }
+  },
+  "AudienciaPublica_ReajusteConta.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.7867,
+      "negativo": 0.0,
+      "final": 1.7867
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 0.2833,
+      "final": 0.0267
+    },
+    "SERVICOS": {
+      "positivo": 1.83,
+      "negativo": 0.0,
+      "final": 1.83
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.3333,
+      "negativo": 0.0,
+      "final": 0.3333
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.6333,
+      "negativo": 0.0,
+      "final": 0.6333
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.2667,
+      "negativo": 0.2833,
+      "final": -0.0167
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.2833,
+      "negativo": 0.0,
+      "final": 0.2833
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 1.2233,
+      "negativo": 0.0,
+      "final": 1.2233
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.2833,
+      "final": 0.0
+    },
+    "SAUDE": {
+      "positivo": 1.82,
+      "negativo": 0.0,
+      "final": 1.82
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.1133,
+      "negativo": 0.0,
+      "final": 2.1133
+    },
+    "LEGAL": {
+      "positivo": 0.2667,
+      "negativo": 0.0,
+      "final": 0.2667
+    },
+    "INOVACAO": {
+      "positivo": 0.3167,
+      "negativo": 0.0,
+      "final": 0.3167
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.89,
+      "negativo": 0.0,
+      "final": 0.89
+    },
+    "CAMPANHAS": {
+      "positivo": 0.7833,
+      "negativo": 0.0,
+      "final": 0.7833
+    },
+    "QUALIDADE": {
+      "positivo": 0.5667,
+      "negativo": 0.0,
+      "final": 0.5667
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 2.48,
+      "negativo": 0.0,
+      "final": 2.48
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.9067,
+      "negativo": 0.0,
+      "final": 0.9067
+    },
+    "FRAUDE": {
+      "positivo": 0.2833,
+      "negativo": 0.0,
+      "final": 0.2833
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.9267,
+      "negativo": 0.0,
+      "final": 0.9267
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.2333,
+      "negativo": 0.0,
+      "final": 0.2333
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.5767,
+      "negativo": 0.0,
+      "final": 0.5767
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.3167,
+      "negativo": 0.0,
+      "final": 0.3167
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.8567,
+      "negativo": 0.0,
+      "final": 0.8567
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.7933,
+      "negativo": 0.0,
+      "final": 1.7933
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 2.7067,
+      "negativo": 0.0,
+      "final": 2.7067
+    },
+    "PATROCINIO": {
+      "positivo": 0.6533,
+      "negativo": 0.0,
+      "final": 0.6533
+    }
+  },
+  "ações_emergenciais_período_chuvoso.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.6167,
+      "negativo": 0.5833,
+      "final": 0.0333
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 1.2,
+      "final": -0.89
+    },
+    "SERVICOS": {
+      "positivo": 0.8633,
+      "negativo": 0.8833,
+      "final": -0.02
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.85,
+      "negativo": 0.9167,
+      "final": -0.0667
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.8833,
+      "final": -0.8833
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.55,
+      "negativo": 0.5833,
+      "final": -0.0333
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.3067,
+      "negativo": 0.2933,
+      "final": 0.0133
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.0,
+      "negativo": 0.5833,
+      "final": -0.5833
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.62,
+      "negativo": 0.8833,
+      "final": -0.2633
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.3,
+      "final": -0.0167
+    },
+    "SAUDE": {
+      "positivo": 0.91,
+      "negativo": 0.8833,
+      "final": 0.0267
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 0.0,
+      "negativo": 0.8833,
+      "final": -0.8833
+    },
+    "LEGAL": {
+      "positivo": 0.55,
+      "negativo": 0.8667,
+      "final": -0.3167
+    },
+    "INOVACAO": {
+      "positivo": 0.2667,
+      "negativo": 0.8167,
+      "final": -0.55
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.2667,
+      "negativo": 0.5833,
+      "final": -0.3167
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.6133,
+      "negativo": 0.2833,
+      "final": 0.33
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.8667,
+      "final": -0.8667
+    },
+    "CAMPANHAS": {
+      "positivo": 0.8167,
+      "negativo": 0.9,
+      "final": -0.0833
+    },
+    "QUALIDADE": {
+      "positivo": 0.0,
+      "negativo": 0.8667,
+      "final": -0.8667
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 1.56,
+      "negativo": 0.5833,
+      "final": 0.9767
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.56,
+      "negativo": 0.5833,
+      "final": 0.9767
+    },
+    "FRAUDE": {
+      "positivo": 0.9333,
+      "negativo": 0.8667,
+      "final": 0.0667
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.62,
+      "negativo": 0.6167,
+      "final": 0.0033
+    },
+    "ACAO SOCIAL": {
+      "positivo": 1.58,
+      "negativo": 0.3,
+      "final": 1.28
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 5.5,
+      "negativo": 0.6,
+      "final": 4.9
+    },
+    "INSTITUCIONAL": {
+      "positivo": 1.0833,
+      "negativo": 0.5667,
+      "final": 0.5167
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.65,
+      "negativo": 0.3,
+      "final": 1.35
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 2.3433,
+      "negativo": 0.8667,
+      "final": 1.4767
+    },
+    "INVESTIMENTO": {
+      "positivo": 2.9333,
+      "negativo": 0.2833,
+      "final": 2.65
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.2867,
+      "negativo": 0.8833,
+      "final": -0.5967
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 3.06,
+      "negativo": 0.5833,
+      "final": 2.4767
+    },
+    "PATROCINIO": {
+      "positivo": 0.85,
+      "negativo": 0.0,
+      "final": 0.85
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 3.4533,
+      "negativo": 0.3167,
+      "final": 3.1367
+    }
+  },
+  "BNDES_financia_privatização.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.1867,
+      "negativo": 0.5833,
+      "final": 0.6033
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 1.2,
+      "final": -0.89
+    },
+    "SERVICOS": {
+      "positivo": 1.2133,
+      "negativo": 0.5833,
+      "final": 0.63
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 1.7667,
+      "negativo": 0.9167,
+      "final": 0.85
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.9333,
+      "negativo": 0.5833,
+      "final": 0.35
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.5833,
+      "final": -0.5833
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.2833,
+      "negativo": 0.2933,
+      "final": -0.01
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 1.8333,
+      "negativo": 0.5833,
+      "final": 1.25
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.5833,
+      "final": -0.5833
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 1.7333,
+      "negativo": 0.3,
+      "final": 1.4333
+    },
+    "SAUDE": {
+      "positivo": 2.1367,
+      "negativo": 0.8833,
+      "final": 1.2533
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 1.8333,
+      "negativo": 0.5833,
+      "final": 1.25
+    },
+    "LEGAL": {
+      "positivo": 1.4167,
+      "negativo": 0.3,
+      "final": 1.1167
+    },
+    "INOVACAO": {
+      "positivo": 1.96,
+      "negativo": 0.2833,
+      "final": 1.6767
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.0,
+      "negativo": 0.5833,
+      "final": -0.5833
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 1.51,
+      "negativo": 0.2833,
+      "final": 1.2267
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "CAMPANHAS": {
+      "positivo": 0.8667,
+      "negativo": 0.9167,
+      "final": -0.05
+    },
+    "QUALIDADE": {
+      "positivo": 1.7267,
+      "negativo": 0.8667,
+      "final": 0.86
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 1.88,
+      "negativo": 0.5833,
+      "final": 1.2967
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 2.4867,
+      "negativo": 0.5833,
+      "final": 1.9033
+    },
+    "FRAUDE": {
+      "positivo": 0.95,
+      "negativo": 0.3,
+      "final": 0.65
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.5933,
+      "negativo": 0.9167,
+      "final": -0.3233
+    },
+    "ACAO SOCIAL": {
+      "positivo": 1.1167,
+      "negativo": 1.1667,
+      "final": -0.05
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.96,
+      "negativo": 0.3,
+      "final": 0.66
+    },
+    "INSTITUCIONAL": {
+      "positivo": 3.25,
+      "negativo": 0.0,
+      "final": 3.25
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.85,
+      "negativo": 0.3,
+      "final": 0.55
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 1.45,
+      "negativo": 0.3,
+      "final": 1.15
+    },
+    "INVESTIMENTO": {
+      "positivo": 2.0267,
+      "negativo": 0.2833,
+      "final": 1.7433
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.6133,
+      "negativo": 0.8833,
+      "final": -0.27
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 4.2867,
+      "negativo": 0.5833,
+      "final": 3.7033
+    },
+    "PATROCINIO": {
+      "positivo": 0.9033,
+      "negativo": 0.0,
+      "final": 0.9033
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.3067,
+      "negativo": 0.3167,
+      "final": -0.01
+    }
+  },
+  "Crise_hídrica_municipal.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 3.0267,
+      "negativo": 0.0,
+      "final": 3.0267
+    },
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 1.1667,
+      "final": -1.1667
+    },
+    "SERVICOS": {
+      "positivo": 1.2433,
+      "negativo": 0.3,
+      "final": 0.9433
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.61,
+      "negativo": 0.2933,
+      "final": 0.3167
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 2.1733,
+      "negativo": 0.0,
+      "final": 2.1733
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.2833,
+      "final": 0.0
+    },
+    "SAUDE": {
+      "positivo": 1.1933,
+      "negativo": 0.5667,
+      "final": 0.6267
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.1133,
+      "negativo": 0.3,
+      "final": 1.8133
+    },
+    "LEGAL": {
+      "positivo": 0.5167,
+      "negativo": 0.2833,
+      "final": 0.2333
+    },
+    "INOVACAO": {
+      "positivo": 0.2,
+      "negativo": 0.2667,
+      "final": -0.0667
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.2667,
+      "negativo": 0.0,
+      "final": 0.2667
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.5833,
+      "negativo": 0.0,
+      "final": 0.5833
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.5833,
+      "final": -0.5833
+    },
+    "CAMPANHAS": {
+      "positivo": 0.55,
+      "negativo": 0.8667,
+      "final": -0.3167
+    },
+    "QUALIDADE": {
+      "positivo": 0.8933,
+      "negativo": 0.5667,
+      "final": 0.3267
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 2.8,
+      "negativo": 0.0,
+      "final": 2.8
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.3,
+      "negativo": 0.0,
+      "final": 0.3
+    },
+    "FRAUDE": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.32,
+      "negativo": 0.3,
+      "final": 0.02
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.39,
+      "negativo": 0.0,
+      "final": 0.39
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.2333,
+      "negativo": 0.3,
+      "final": 0.9333
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.5333,
+      "negativo": 0.55,
+      "final": -0.0167
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.1033,
+      "negativo": 0.0,
+      "final": 1.1033
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.91,
+      "negativo": 0.2833,
+      "final": 0.6267
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.5833,
+      "negativo": 0.0,
+      "final": 0.5833
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 2.08,
+      "negativo": 0.5667,
+      "final": 1.5133
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 2.74,
+      "negativo": 0.0,
+      "final": 2.74
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 1.5667,
+      "negativo": 0.0,
+      "final": 1.5667
+    }
+  },
+  "Dano_asfalto.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.18,
+      "negativo": 0.0,
+      "final": 1.18
+    },
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "SERVICOS": {
+      "positivo": 2.4233,
+      "negativo": 0.0,
+      "final": 2.4233
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.6333,
+      "negativo": 0.3,
+      "final": 0.3333
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.2667,
+      "negativo": 0.0,
+      "final": 0.2667
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.5733,
+      "negativo": 0.0,
+      "final": 0.5733
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 1.2233,
+      "negativo": 0.0,
+      "final": 1.2233
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.5733,
+      "negativo": 0.0,
+      "final": 0.5733
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.2833,
+      "final": 0.0
+    },
+    "SAUDE": {
+      "positivo": 0.8833,
+      "negativo": 0.2833,
+      "final": 0.6
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.46,
+      "negativo": 0.0,
+      "final": 2.46
+    },
+    "LEGAL": {
+      "positivo": 0.5,
+      "negativo": 0.0,
+      "final": 0.5
+    },
+    "INOVACAO": {
+      "positivo": 0.85,
+      "negativo": 0.0,
+      "final": 0.85
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 2.5867,
+      "negativo": 0.0,
+      "final": 2.5867
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.89,
+      "negativo": 0.0,
+      "final": 0.89
+    },
+    "ACIDENTE": {
+      "positivo": 0.2667,
+      "negativo": 0.3,
+      "final": -0.0333
+    },
+    "CAMPANHAS": {
+      "positivo": 0.25,
+      "negativo": 0.3,
+      "final": -0.05
+    },
+    "QUALIDADE": {
+      "positivo": 1.1933,
+      "negativo": 0.2833,
+      "final": 0.91
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.9467,
+      "negativo": 0.0,
+      "final": 0.9467
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.3267,
+      "negativo": 0.0,
+      "final": 0.3267
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.3,
+      "negativo": 0.3,
+      "final": 0.0
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.1933,
+      "negativo": 0.0,
+      "final": 0.1933
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.3133,
+      "negativo": 0.0,
+      "final": 0.3133
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.8333,
+      "negativo": 0.2667,
+      "final": 0.5667
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 2.8233,
+      "negativo": 0.0,
+      "final": 2.8233
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.2833,
+      "negativo": 0.0,
+      "final": 0.2833
+    },
+    "INVESTIMENTO": {
+      "positivo": 1.1533,
+      "negativo": 0.0,
+      "final": 1.1533
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 3.6533,
+      "negativo": 0.2833,
+      "final": 3.37
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.31,
+      "negativo": 0.0,
+      "final": 0.31
+    }
+  },
+  "Dano_via_publica_buraco.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.6333,
+      "negativo": 0.3167,
+      "final": 0.3167
+    },
+    "EXPOSICAO": {
+      "positivo": 0.6033,
+      "negativo": 0.2833,
+      "final": 0.32
+    },
+    "SERVICOS": {
+      "positivo": 1.2167,
+      "negativo": 0.3167,
+      "final": 0.9
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.5933,
+      "negativo": 0.3167,
+      "final": 0.2767
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "SAUDE": {
+      "positivo": 0.6433,
+      "negativo": 0.3,
+      "final": 0.3433
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 0.2867,
+      "negativo": 0.3167,
+      "final": -0.03
+    },
+    "LEGAL": {
+      "positivo": 0.8333,
+      "negativo": 0.6,
+      "final": 0.2333
+    },
+    "INOVACAO": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.8933,
+      "negativo": 0.3167,
+      "final": 0.5767
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "ACIDENTE": {
+      "positivo": 0.2667,
+      "negativo": 0.6,
+      "final": -0.3333
+    },
+    "CAMPANHAS": {
+      "positivo": 0.5667,
+      "negativo": 0.2833,
+      "final": 0.2833
+    },
+    "QUALIDADE": {
+      "positivo": 0.3267,
+      "negativo": 0.3167,
+      "final": 0.01
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "FRAUDE": {
+      "positivo": 0.2667,
+      "negativo": 0.6,
+      "final": -0.3333
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.8667,
+      "negativo": 0.3167,
+      "final": 1.55
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.2333,
+      "negativo": 0.85,
+      "final": -0.6167
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.65,
+      "negativo": 0.3167,
+      "final": 1.3333
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.3167,
+      "negativo": 0.6,
+      "final": -0.2833
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.6,
+      "negativo": 0.3,
+      "final": 0.3
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.2867,
+      "negativo": 0.3,
+      "final": -0.0133
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.2867,
+      "negativo": 0.3167,
+      "final": -0.03
+    },
+    "PATROCINIO": {
+      "positivo": 0.8167,
+      "negativo": 0.0,
+      "final": 0.8167
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 1.8733,
+      "negativo": 0.3,
+      "final": 1.5733
+    }
+  },
+  "Desobstrução_redesEsgoto.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.5233,
+      "negativo": 0.0,
+      "final": 1.5233
+    },
+    "EXPOSICAO": {
+      "positivo": 0.6267,
+      "negativo": 0.3,
+      "final": 0.3267
+    },
+    "SERVICOS": {
+      "positivo": 4.51,
+      "negativo": 0.3,
+      "final": 4.21
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.9,
+      "negativo": 0.3,
+      "final": 0.6
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 1.7667,
+      "negativo": 0.3,
+      "final": 1.4667
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 1.14,
+      "negativo": 0.2933,
+      "final": 0.8467
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 1.8367,
+      "negativo": 0.0,
+      "final": 1.8367
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.8667,
+      "final": -0.5833
+    },
+    "SAUDE": {
+      "positivo": 1.45,
+      "negativo": 0.2833,
+      "final": 1.1667
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.12,
+      "negativo": 0.3,
+      "final": 1.82
+    },
+    "LEGAL": {
+      "positivo": 0.8167,
+      "negativo": 0.3,
+      "final": 0.5167
+    },
+    "INOVACAO": {
+      "positivo": 1.8333,
+      "negativo": 0.8167,
+      "final": 1.0167
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.8433,
+      "negativo": 0.0,
+      "final": 0.8433
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.3067,
+      "negativo": 0.2833,
+      "final": 0.0233
+    },
+    "CAMPANHAS": {
+      "positivo": 1.15,
+      "negativo": 0.0,
+      "final": 1.15
+    },
+    "QUALIDADE": {
+      "positivo": 1.4433,
+      "negativo": 0.2833,
+      "final": 1.16
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.9467,
+      "negativo": 0.0,
+      "final": 0.9467
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 2.1867,
+      "negativo": 0.0,
+      "final": 2.1867
+    },
+    "FRAUDE": {
+      "positivo": 0.5667,
+      "negativo": 0.3,
+      "final": 0.2667
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.9267,
+      "negativo": 0.0,
+      "final": 0.9267
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.5433,
+      "negativo": 0.0,
+      "final": 0.5433
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 2.44,
+      "negativo": 0.3,
+      "final": 2.14
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 1.1,
+      "final": -1.1
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 3.3567,
+      "negativo": 0.0,
+      "final": 3.3567
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.6267,
+      "negativo": 0.8667,
+      "final": -0.24
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.5767,
+      "negativo": 0.55,
+      "final": 0.0267
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 3.4,
+      "negativo": 0.2833,
+      "final": 3.1167
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 1.86,
+      "negativo": 0.0,
+      "final": 1.86
+    }
+  },
+  "Desobstrução_redes_esgoto.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.5233,
+      "negativo": 0.0,
+      "final": 1.5233
+    },
+    "EXPOSICAO": {
+      "positivo": 0.6267,
+      "negativo": 0.3,
+      "final": 0.3267
+    },
+    "SERVICOS": {
+      "positivo": 4.51,
+      "negativo": 0.3,
+      "final": 4.21
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.9,
+      "negativo": 0.3,
+      "final": 0.6
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 1.7667,
+      "negativo": 0.3,
+      "final": 1.4667
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 1.14,
+      "negativo": 0.2933,
+      "final": 0.8467
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 1.8367,
+      "negativo": 0.0,
+      "final": 1.8367
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.8667,
+      "final": -0.5833
+    },
+    "SAUDE": {
+      "positivo": 1.45,
+      "negativo": 0.2833,
+      "final": 1.1667
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.12,
+      "negativo": 0.3,
+      "final": 1.82
+    },
+    "LEGAL": {
+      "positivo": 0.8167,
+      "negativo": 0.3,
+      "final": 0.5167
+    },
+    "INOVACAO": {
+      "positivo": 2.15,
+      "negativo": 0.8167,
+      "final": 1.3333
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.8433,
+      "negativo": 0.0,
+      "final": 0.8433
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.3067,
+      "negativo": 0.2833,
+      "final": 0.0233
+    },
+    "CAMPANHAS": {
+      "positivo": 1.4,
+      "negativo": 0.0,
+      "final": 1.4
+    },
+    "QUALIDADE": {
+      "positivo": 1.4433,
+      "negativo": 0.2833,
+      "final": 1.16
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.9467,
+      "negativo": 0.0,
+      "final": 0.9467
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 2.1867,
+      "negativo": 0.0,
+      "final": 2.1867
+    },
+    "FRAUDE": {
+      "positivo": 0.5667,
+      "negativo": 0.3,
+      "final": 0.2667
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.9267,
+      "negativo": 0.0,
+      "final": 0.9267
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.5433,
+      "negativo": 0.0,
+      "final": 0.5433
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 2.44,
+      "negativo": 0.3,
+      "final": 2.14
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 1.1,
+      "final": -1.1
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 3.3567,
+      "negativo": 0.0,
+      "final": 3.3567
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.6267,
+      "negativo": 0.8667,
+      "final": -0.24
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.87,
+      "negativo": 0.55,
+      "final": 0.32
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 4.2667,
+      "negativo": 0.2833,
+      "final": 3.9833
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 1.86,
+      "negativo": 0.0,
+      "final": 1.86
+    }
+  },
+  "doação_42mil_copos.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 2.7167,
+      "negativo": 0.2833,
+      "final": 2.4333
+    },
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "SERVICOS": {
+      "positivo": 0.6233,
+      "negativo": 0.2833,
+      "final": 0.34
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.2833,
+      "negativo": 0.0,
+      "final": 0.2833
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.9333,
+      "negativo": 0.2833,
+      "final": 0.65
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.2833,
+      "final": 0.0
+    },
+    "SAUDE": {
+      "positivo": 0.5833,
+      "negativo": 0.2833,
+      "final": 0.3
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.1133,
+      "negativo": 0.2833,
+      "final": 1.83
+    },
+    "LEGAL": {
+      "positivo": 0.5333,
+      "negativo": 0.0,
+      "final": 0.5333
+    },
+    "INOVACAO": {
+      "positivo": 0.0,
+      "negativo": 0.2667,
+      "final": -0.2667
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "CAMPANHAS": {
+      "positivo": 0.25,
+      "negativo": 0.3,
+      "final": -0.05
+    },
+    "QUALIDADE": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 2.1867,
+      "negativo": 0.2833,
+      "final": 1.9033
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.32,
+      "negativo": 0.0,
+      "final": 0.32
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.5333,
+      "negativo": 0.2833,
+      "final": 0.25
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.8433,
+      "negativo": 0.0,
+      "final": 0.8433
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.2833,
+      "negativo": 0.2833,
+      "final": 0.0
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.78,
+      "negativo": 0.2833,
+      "final": 1.4967
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 1.9067,
+      "negativo": 0.0,
+      "final": 1.9067
+    }
+  },
+  "Enchentes_40cidades.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 2.42,
+      "negativo": 0.2833,
+      "final": 2.1367
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 0.3,
+      "final": 0.01
+    },
+    "SERVICOS": {
+      "positivo": 2.7367,
+      "negativo": 0.5833,
+      "final": 2.1533
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.8167,
+      "negativo": 0.3,
+      "final": 0.5167
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.2667,
+      "negativo": 0.5833,
+      "final": -0.3167
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.5833,
+      "negativo": 0.6,
+      "final": -0.0167
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.9167,
+      "negativo": 0.2933,
+      "final": 0.6233
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 1.2433,
+      "negativo": 0.2833,
+      "final": 0.96
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.5733,
+      "negativo": 0.5833,
+      "final": -0.01
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.0,
+      "negativo": 1.1667,
+      "final": -1.1667
+    },
+    "SAUDE": {
+      "positivo": 3.5367,
+      "negativo": 0.2833,
+      "final": 3.2533
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.4133,
+      "negativo": 0.5833,
+      "final": 1.83
+    },
+    "LEGAL": {
+      "positivo": 0.8333,
+      "negativo": 0.6,
+      "final": 0.2333
+    },
+    "INOVACAO": {
+      "positivo": 0.0,
+      "negativo": 1.3667,
+      "final": -1.3667
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.5933,
+      "negativo": 0.2833,
+      "final": 0.31
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.5833,
+      "negativo": 0.5667,
+      "final": 0.0167
+    },
+    "ACIDENTE": {
+      "positivo": 0.6,
+      "negativo": 0.0,
+      "final": 0.6
+    },
+    "CAMPANHAS": {
+      "positivo": 3.35,
+      "negativo": 0.0,
+      "final": 3.35
+    },
+    "QUALIDADE": {
+      "positivo": 0.5667,
+      "negativo": 0.2833,
+      "final": 0.2833
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 2.1867,
+      "negativo": 0.2833,
+      "final": 1.9033
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.3267,
+      "negativo": 0.2833,
+      "final": 0.0433
+    },
+    "FRAUDE": {
+      "positivo": 0.55,
+      "negativo": 0.6,
+      "final": -0.05
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.3267,
+      "negativo": 0.0,
+      "final": 0.3267
+    },
+    "ACAO SOCIAL": {
+      "positivo": 1.7233,
+      "negativo": 0.0,
+      "final": 1.7233
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 5.2,
+      "negativo": 0.3,
+      "final": 4.9
+    },
+    "INSTITUCIONAL": {
+      "positivo": 1.6167,
+      "negativo": 1.1167,
+      "final": 0.5
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 2.52,
+      "negativo": 0.0,
+      "final": 2.52
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.6267,
+      "negativo": 1.45,
+      "final": -0.8233
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.2833,
+      "negativo": 0.5667,
+      "final": -0.2833
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.8,
+      "negativo": 0.2833,
+      "final": 1.5167
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "PATROCINIO": {
+      "positivo": 1.1,
+      "negativo": 0.0,
+      "final": 1.1
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 4.0667,
+      "negativo": 0.0,
+      "final": 4.0667
+    }
+  },
+  "Enchentes_Ipatinga.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.5133,
+      "negativo": 0.0,
+      "final": 1.5133
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 0.0,
+      "final": 0.31
+    },
+    "SERVICOS": {
+      "positivo": 0.62,
+      "negativo": 0.0,
+      "final": 0.62
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.5333,
+      "negativo": 0.0,
+      "final": 0.5333
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.5833,
+      "negativo": 0.0,
+      "final": 0.5833
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.6033,
+      "negativo": 0.0,
+      "final": 0.6033
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.6067,
+      "negativo": 0.0,
+      "final": 0.6067
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.3167,
+      "negativo": 0.0,
+      "final": 0.3167
+    },
+    "SAUDE": {
+      "positivo": 3.0033,
+      "negativo": 0.0,
+      "final": 3.0033
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.7067,
+      "negativo": 0.0,
+      "final": 2.7067
+    },
+    "LEGAL": {
+      "positivo": 0.2833,
+      "negativo": 0.0,
+      "final": 0.2833
+    },
+    "INOVACAO": {
+      "positivo": 0.0,
+      "negativo": 0.2667,
+      "final": -0.2667
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.5933,
+      "negativo": 0.0,
+      "final": 0.5933
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.89,
+      "negativo": 0.0,
+      "final": 0.89
+    },
+    "ACIDENTE": {
+      "positivo": 0.6667,
+      "negativo": 0.0,
+      "final": 0.6667
+    },
+    "CAMPANHAS": {
+      "positivo": 0.5833,
+      "negativo": 0.0,
+      "final": 0.5833
+    },
+    "QUALIDADE": {
+      "positivo": 1.1933,
+      "negativo": 0.0,
+      "final": 1.1933
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.64,
+      "negativo": 0.0,
+      "final": 0.64
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.3267,
+      "negativo": 0.0,
+      "final": 0.3267
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.5767,
+      "negativo": 0.0,
+      "final": 0.5767
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 4.9067,
+      "negativo": 0.0,
+      "final": 4.9067
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.5333,
+      "negativo": 0.2833,
+      "final": 0.25
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.7,
+      "negativo": 0.0,
+      "final": 1.7
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.2833,
+      "negativo": 0.0,
+      "final": 0.2833
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 2.14,
+      "negativo": 0.0,
+      "final": 2.14
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 2.8133,
+      "negativo": 0.0,
+      "final": 2.8133
+    }
+  },
+  "Falta_água_periodo_chuvoso.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.7967,
+      "negativo": 0.0,
+      "final": 1.7967
+    },
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "SERVICOS": {
+      "positivo": 0.29,
+      "negativo": 0.0,
+      "final": 0.29
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.2333,
+      "negativo": 0.0,
+      "final": 0.2333
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.5833,
+      "final": -0.5833
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.9433,
+      "negativo": 0.0,
+      "final": 0.9433
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.62,
+      "negativo": 0.0,
+      "final": 0.62
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "SAUDE": {
+      "positivo": 0.8667,
+      "negativo": 0.0,
+      "final": 0.8667
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.1333,
+      "negativo": 0.0,
+      "final": 2.1333
+    },
+    "LEGAL": {
+      "positivo": 0.0,
+      "negativo": 0.5833,
+      "final": -0.5833
+    },
+    "INOVACAO": {
+      "positivo": 0.2,
+      "negativo": 0.55,
+      "final": -0.35
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.5933,
+      "negativo": 0.0,
+      "final": 0.5933
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "ACIDENTE": {
+      "positivo": 0.2667,
+      "negativo": 0.2833,
+      "final": -0.0167
+    },
+    "CAMPANHAS": {
+      "positivo": 1.1,
+      "negativo": 0.2833,
+      "final": 0.8167
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.94,
+      "negativo": 0.0,
+      "final": 0.94
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.3,
+      "negativo": 0.0,
+      "final": 0.3
+    },
+    "FRAUDE": {
+      "positivo": 0.0,
+      "negativo": 0.5833,
+      "final": -0.5833
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.9533,
+      "negativo": 0.0,
+      "final": 0.9533
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.35,
+      "negativo": 0.0,
+      "final": 0.35
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.5333,
+      "negativo": 0.0,
+      "final": 1.5333
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.2833,
+      "negativo": 0.55,
+      "final": -0.2667
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.1033,
+      "negativo": 0.0,
+      "final": 1.1033
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.0,
+      "negativo": 0.5833,
+      "final": -0.5833
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.3,
+      "negativo": 0.2833,
+      "final": 0.0167
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.18,
+      "negativo": 0.0,
+      "final": 1.18
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.3133,
+      "negativo": 0.0,
+      "final": 0.3133
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 1.25,
+      "negativo": 0.0,
+      "final": 1.25
+    }
+  },
+  "Falta_água_turbidez.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 3.66,
+      "negativo": 0.0,
+      "final": 3.66
+    },
+    "SERVICOS": {
+      "positivo": 1.5433,
+      "negativo": 0.0,
+      "final": 1.5433
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.2333,
+      "negativo": 0.0,
+      "final": 0.2333
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.2933,
+      "negativo": 0.0,
+      "final": 0.2933
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.2833,
+      "negativo": 0.0,
+      "final": 0.2833
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 2.49,
+      "negativo": 0.0,
+      "final": 2.49
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.8667,
+      "final": -0.5833
+    },
+    "SAUDE": {
+      "positivo": 0.5833,
+      "negativo": 0.0,
+      "final": 0.5833
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 3.0133,
+      "negativo": 0.0,
+      "final": 3.0133
+    },
+    "LEGAL": {
+      "positivo": 0.2833,
+      "negativo": 0.3,
+      "final": -0.0167
+    },
+    "INOVACAO": {
+      "positivo": 0.0,
+      "negativo": 0.8167,
+      "final": -0.8167
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "CAMPANHAS": {
+      "positivo": 0.8,
+      "negativo": 0.0,
+      "final": 0.8
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 2.1867,
+      "negativo": 0.0,
+      "final": 2.1867
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.62,
+      "negativo": 0.0,
+      "final": 0.62
+    },
+    "FRAUDE": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.3267,
+      "negativo": 0.0,
+      "final": 0.3267
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.1667,
+      "negativo": 0.0,
+      "final": 0.1667
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 2.1267,
+      "negativo": 0.0,
+      "final": 2.1267
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.8333,
+      "final": -0.8333
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.8433,
+      "negativo": 0.0,
+      "final": 0.8433
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.0,
+      "negativo": 0.8667,
+      "final": -0.8667
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 2.0733,
+      "negativo": 0.0,
+      "final": 2.0733
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 1.2433,
+      "negativo": 0.0,
+      "final": 1.2433
+    }
+  },
+  "Fiscalização_bacia_contenção.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.83,
+      "negativo": 0.2833,
+      "final": 1.5467
+    },
+    "EXPOSICAO": {
+      "positivo": 0.9333,
+      "negativo": 1.1667,
+      "final": -0.2333
+    },
+    "SERVICOS": {
+      "positivo": 1.54,
+      "negativo": 0.5833,
+      "final": 0.9567
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.6667,
+      "negativo": 0.6,
+      "final": 0.0667
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.3167,
+      "negativo": 0.5833,
+      "final": -0.2667
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.2667,
+      "negativo": 1.1667,
+      "final": -0.9
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.5933,
+      "negativo": 0.2933,
+      "final": 0.3
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.9433,
+      "negativo": 0.2833,
+      "final": 0.66
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.3067,
+      "negativo": 0.5833,
+      "final": -0.2767
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.0,
+      "negativo": 0.8833,
+      "final": -0.8833
+    },
+    "SAUDE": {
+      "positivo": 0.8833,
+      "negativo": 0.5667,
+      "final": 0.3167
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.42,
+      "negativo": 0.5833,
+      "final": 1.8367
+    },
+    "LEGAL": {
+      "positivo": 0.5,
+      "negativo": 1.1667,
+      "final": -0.6667
+    },
+    "INOVACAO": {
+      "positivo": 0.4833,
+      "negativo": 1.1,
+      "final": -0.6167
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 1.11,
+      "negativo": 0.2833,
+      "final": 0.8267
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.89,
+      "negativo": 0.5667,
+      "final": 0.3233
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.8667,
+      "final": -0.8667
+    },
+    "CAMPANHAS": {
+      "positivo": 0.8333,
+      "negativo": 0.8667,
+      "final": -0.0333
+    },
+    "QUALIDADE": {
+      "positivo": 1.1933,
+      "negativo": 0.5667,
+      "final": 0.6267
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.94,
+      "negativo": 0.2833,
+      "final": 0.6567
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.3,
+      "negativo": 0.2833,
+      "final": 0.0167
+    },
+    "FRAUDE": {
+      "positivo": 0.2667,
+      "negativo": 1.1667,
+      "final": -0.9
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.32,
+      "negativo": 0.3,
+      "final": 0.02
+    },
+    "ACAO SOCIAL": {
+      "positivo": 1.3333,
+      "negativo": 0.0,
+      "final": 1.3333
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.5867,
+      "negativo": 0.3,
+      "final": 0.2867
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.85,
+      "negativo": 1.1,
+      "final": -0.25
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 5.6167,
+      "negativo": 0.0,
+      "final": 5.6167
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.91,
+      "negativo": 1.1667,
+      "final": -0.2567
+    },
+    "INVESTIMENTO": {
+      "positivo": 1.1833,
+      "negativo": 0.8333,
+      "final": 0.35
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 2.7667,
+      "negativo": 0.5667,
+      "final": 2.2
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.6,
+      "negativo": 0.2833,
+      "final": 0.3167
+    },
+    "PATROCINIO": {
+      "positivo": 0.85,
+      "negativo": 0.0,
+      "final": 0.85
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 2.8167,
+      "negativo": 0.0,
+      "final": 2.8167
+    }
+  },
+  "Interdição_via_pública.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.6333,
+      "negativo": 0.0,
+      "final": 0.6333
+    },
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "SERVICOS": {
+      "positivo": 0.3033,
+      "negativo": 0.0,
+      "final": 0.3033
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.2333,
+      "negativo": 0.0,
+      "final": 0.2333
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.3333,
+      "negativo": 0.2833,
+      "final": 0.05
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.6233,
+      "negativo": 0.0,
+      "final": 0.6233
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.2933,
+      "negativo": 0.0,
+      "final": 0.2933
+    },
+    "LEGAL": {
+      "positivo": 0.3333,
+      "negativo": 0.2833,
+      "final": 0.05
+    },
+    "INOVACAO": {
+      "positivo": 0.2,
+      "negativo": 0.0,
+      "final": 0.2
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 1.41,
+      "negativo": 0.0,
+      "final": 1.41
+    },
+    "ACIDENTE": {
+      "positivo": 0.5333,
+      "negativo": 0.2833,
+      "final": 0.25
+    },
+    "CAMPANHAS": {
+      "positivo": 0.25,
+      "negativo": 0.2833,
+      "final": -0.0333
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.3,
+      "negativo": 0.0,
+      "final": 0.3
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.3,
+      "negativo": 0.0,
+      "final": 0.3
+    },
+    "FRAUDE": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.6467,
+      "negativo": 0.0,
+      "final": 0.6467
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.2667,
+      "final": -0.2667
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.26,
+      "negativo": 0.0,
+      "final": 0.26
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.3,
+      "negativo": 0.0,
+      "final": 0.3
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.9,
+      "negativo": 0.0,
+      "final": 0.9
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.3133,
+      "negativo": 0.0,
+      "final": 0.3133
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.31,
+      "negativo": 0.0,
+      "final": 0.31
+    }
+  },
+  "Inundação_prevenção.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.83,
+      "negativo": 0.2833,
+      "final": 1.5467
+    },
+    "EXPOSICAO": {
+      "positivo": 0.9333,
+      "negativo": 0.8667,
+      "final": 0.0667
+    },
+    "SERVICOS": {
+      "positivo": 0.92,
+      "negativo": 0.2833,
+      "final": 0.6367
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.6667,
+      "negativo": 0.3,
+      "final": 0.3667
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.3167,
+      "negativo": 0.2833,
+      "final": 0.0333
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.2667,
+      "negativo": 1.1667,
+      "final": -0.9
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.5933,
+      "negativo": 0.0,
+      "final": 0.5933
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.9433,
+      "negativo": 0.2833,
+      "final": 0.66
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.3067,
+      "negativo": 0.2833,
+      "final": 0.0233
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.0,
+      "negativo": 0.8833,
+      "final": -0.8833
+    },
+    "SAUDE": {
+      "positivo": 0.8833,
+      "negativo": 0.2833,
+      "final": 0.6
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.42,
+      "negativo": 0.2833,
+      "final": 2.1367
+    },
+    "LEGAL": {
+      "positivo": 0.5,
+      "negativo": 1.1667,
+      "final": -0.6667
+    },
+    "INOVACAO": {
+      "positivo": 0.2,
+      "negativo": 1.1,
+      "final": -0.9
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 1.11,
+      "negativo": 0.2833,
+      "final": 0.8267
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.3067,
+      "negativo": 0.5667,
+      "final": -0.26
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.8667,
+      "final": -0.8667
+    },
+    "CAMPANHAS": {
+      "positivo": 0.8333,
+      "negativo": 0.8667,
+      "final": -0.0333
+    },
+    "QUALIDADE": {
+      "positivo": 0.6267,
+      "negativo": 0.2833,
+      "final": 0.3433
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.94,
+      "negativo": 0.2833,
+      "final": 0.6567
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.3,
+      "negativo": 0.2833,
+      "final": 0.0167
+    },
+    "FRAUDE": {
+      "positivo": 0.2667,
+      "negativo": 1.1667,
+      "final": -0.9
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.32,
+      "negativo": 0.3,
+      "final": 0.02
+    },
+    "ACAO SOCIAL": {
+      "positivo": 1.3333,
+      "negativo": 0.0,
+      "final": 1.3333
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.5867,
+      "negativo": 0.0,
+      "final": 0.5867
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.85,
+      "negativo": 1.1,
+      "final": -0.25
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 5.6167,
+      "negativo": 0.0,
+      "final": 5.6167
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.2833,
+      "negativo": 1.1667,
+      "final": -0.8833
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.9,
+      "negativo": 0.8333,
+      "final": 0.0667
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 2.1533,
+      "negativo": 0.2833,
+      "final": 1.87
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.6,
+      "negativo": 0.2833,
+      "final": 0.3167
+    },
+    "PATROCINIO": {
+      "positivo": 0.85,
+      "negativo": 0.0,
+      "final": 0.85
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 2.8167,
+      "negativo": 0.0,
+      "final": 2.8167
+    }
+  },
+  "Investidores_visitam_Copasa.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.3067,
+      "negativo": 0.6,
+      "final": -0.2933
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 1.8167,
+      "final": -1.5067
+    },
+    "SERVICOS": {
+      "positivo": 0.2833,
+      "negativo": 0.9,
+      "final": -0.6167
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.85,
+      "negativo": 1.5333,
+      "final": -0.6833
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.9,
+      "final": -0.9
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.85,
+      "negativo": 0.2833,
+      "final": 0.5667
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.5733,
+      "negativo": 0.5867,
+      "final": -0.0133
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.9,
+      "negativo": 0.6,
+      "final": 0.3
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.9,
+      "final": -0.9
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 1.8,
+      "negativo": 0.0,
+      "final": 1.8
+    },
+    "SAUDE": {
+      "positivo": 0.97,
+      "negativo": 1.4833,
+      "final": -0.5133
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 0.0,
+      "negativo": 0.9,
+      "final": -0.9
+    },
+    "LEGAL": {
+      "positivo": 1.15,
+      "negativo": 0.2833,
+      "final": 0.8667
+    },
+    "INOVACAO": {
+      "positivo": 2.26,
+      "negativo": 0.0,
+      "final": 2.26
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.2667,
+      "negativo": 0.6,
+      "final": -0.3333
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.2933,
+      "negativo": 0.0,
+      "final": 0.2933
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.8833,
+      "final": -0.8833
+    },
+    "CAMPANHAS": {
+      "positivo": 0.2833,
+      "negativo": 1.2333,
+      "final": -0.95
+    },
+    "QUALIDADE": {
+      "positivo": 0.61,
+      "negativo": 1.45,
+      "final": -0.84
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 1.5467,
+      "negativo": 0.6,
+      "final": 0.9467
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.5467,
+      "negativo": 0.6,
+      "final": 0.9467
+    },
+    "FRAUDE": {
+      "positivo": 0.95,
+      "negativo": 0.2833,
+      "final": 0.6667
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.6067,
+      "negativo": 1.2333,
+      "final": -0.6267
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.1667,
+      "negativo": 0.9,
+      "final": -0.7333
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.9267,
+      "negativo": 0.9,
+      "final": 0.0267
+    },
+    "INSTITUCIONAL": {
+      "positivo": 1.0833,
+      "negativo": 0.0,
+      "final": 1.0833
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 2.91,
+      "negativo": 0.0,
+      "final": 2.91
+    },
+    "INVESTIMENTO": {
+      "positivo": 3.7767,
+      "negativo": 0.0,
+      "final": 3.7767
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.0,
+      "negativo": 1.4833,
+      "final": -1.4833
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 4.54,
+      "negativo": 0.6,
+      "final": 3.94
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.0,
+      "negativo": 0.6333,
+      "final": -0.6333
+    }
+  },
+  "Investimento_eventos_culturais.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.0,
+      "negativo": 1.2167,
+      "final": -1.2167
+    },
+    "EXPOSICAO": {
+      "positivo": 0.5867,
+      "negativo": 0.9,
+      "final": -0.3133
+    },
+    "SERVICOS": {
+      "positivo": 0.0,
+      "negativo": 1.2167,
+      "final": -1.2167
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 2.5,
+      "negativo": 1.1833,
+      "final": 1.3167
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 1.2167,
+      "final": -1.2167
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 1.5167,
+      "final": -1.5167
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.3067,
+      "negativo": 0.6333,
+      "final": -0.3267
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.29,
+      "negativo": 1.2167,
+      "final": -0.9267
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 1.2167,
+      "final": -1.2167
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.6333,
+      "negativo": 1.2333,
+      "final": -0.6
+    },
+    "SAUDE": {
+      "positivo": 0.86,
+      "negativo": 1.2,
+      "final": -0.34
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 0.0,
+      "negativo": 1.2167,
+      "final": -1.2167
+    },
+    "LEGAL": {
+      "positivo": 0.5,
+      "negativo": 1.5167,
+      "final": -1.0167
+    },
+    "INOVACAO": {
+      "positivo": 1.1167,
+      "negativo": 1.1667,
+      "final": -0.05
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.0,
+      "negativo": 1.2167,
+      "final": -1.2167
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 1.1667,
+      "final": -1.1667
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 1.2167,
+      "final": -1.2167
+    },
+    "CAMPANHAS": {
+      "positivo": 0.55,
+      "negativo": 0.6167,
+      "final": -0.0667
+    },
+    "QUALIDADE": {
+      "positivo": 0.0,
+      "negativo": 1.2167,
+      "final": -1.2167
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 1.2533,
+      "negativo": 1.2167,
+      "final": 0.0367
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.2533,
+      "negativo": 1.2167,
+      "final": 0.0367
+    },
+    "FRAUDE": {
+      "positivo": 0.65,
+      "negativo": 1.5167,
+      "final": -0.8667
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 1.2133,
+      "negativo": 1.1833,
+      "final": 0.03
+    },
+    "ACAO SOCIAL": {
+      "positivo": 1.1,
+      "negativo": 0.3,
+      "final": 0.8
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.0,
+      "negativo": 0.9333,
+      "final": -0.9333
+    },
+    "INSTITUCIONAL": {
+      "positivo": 1.9,
+      "negativo": 0.6,
+      "final": 1.3
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.0,
+      "negativo": 0.9333,
+      "final": -0.9333
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 1.7167,
+      "negativo": 1.2333,
+      "final": 0.4833
+    },
+    "INVESTIMENTO": {
+      "positivo": 2.9033,
+      "negativo": 1.4333,
+      "final": 1.47
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.3067,
+      "negativo": 1.2,
+      "final": -0.8933
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 3.96,
+      "negativo": 1.2167,
+      "final": 2.7433
+    },
+    "PATROCINIO": {
+      "positivo": 3.29,
+      "negativo": 0.0,
+      "final": 3.29
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.0,
+      "negativo": 0.9167,
+      "final": -0.9167
+    }
+  },
+  "Investimento_saneamento_básico.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.88,
+      "negativo": 0.6,
+      "final": 0.28
+    },
+    "EXPOSICAO": {
+      "positivo": 0.6033,
+      "negativo": 1.45,
+      "final": -0.8467
+    },
+    "SERVICOS": {
+      "positivo": 2.9833,
+      "negativo": 0.9,
+      "final": 2.0833
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 3.6667,
+      "negativo": 0.8833,
+      "final": 2.7833
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 2.15,
+      "negativo": 0.9,
+      "final": 1.25
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 1.7667,
+      "final": -1.7667
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 1.2033,
+      "negativo": 0.61,
+      "final": 0.5933
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 3.36,
+      "negativo": 0.6,
+      "final": 2.76
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.3067,
+      "negativo": 0.9,
+      "final": -0.5933
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.5833,
+      "negativo": 1.2,
+      "final": -0.6167
+    },
+    "SAUDE": {
+      "positivo": 3.3467,
+      "negativo": 0.8667,
+      "final": 2.48
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 1.8333,
+      "negativo": 0.9,
+      "final": 0.9333
+    },
+    "LEGAL": {
+      "positivo": 0.5,
+      "negativo": 1.7667,
+      "final": -1.2667
+    },
+    "INOVACAO": {
+      "positivo": 3.0667,
+      "negativo": 1.1333,
+      "final": 1.9333
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.5933,
+      "negativo": 0.6,
+      "final": -0.0067
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.93,
+      "negativo": 0.8667,
+      "final": 0.0633
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 1.4667,
+      "final": -1.4667
+    },
+    "CAMPANHAS": {
+      "positivo": 2.5167,
+      "negativo": 0.8667,
+      "final": 1.65
+    },
+    "QUALIDADE": {
+      "positivo": 1.1767,
+      "negativo": 0.8833,
+      "final": 0.2933
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 2.4733,
+      "negativo": 0.6,
+      "final": 1.8733
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 3.7133,
+      "negativo": 0.6,
+      "final": 3.1133
+    },
+    "FRAUDE": {
+      "positivo": 0.3333,
+      "negativo": 1.7667,
+      "final": -1.4333
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 4.58,
+      "negativo": 0.5833,
+      "final": 3.9967
+    },
+    "ACAO SOCIAL": {
+      "positivo": 1.4933,
+      "negativo": 0.5667,
+      "final": 0.9267
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.86,
+      "negativo": 0.6167,
+      "final": 1.2433
+    },
+    "INSTITUCIONAL": {
+      "positivo": 1.0667,
+      "negativo": 1.1167,
+      "final": -0.05
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.9167,
+      "negativo": 0.3167,
+      "final": 1.6
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 1.7767,
+      "negativo": 1.2,
+      "final": 0.5767
+    },
+    "INVESTIMENTO": {
+      "positivo": 3.8767,
+      "negativo": 1.1333,
+      "final": 2.7433
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.8333,
+      "negativo": 0.8667,
+      "final": 0.9667
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 4.8467,
+      "negativo": 0.6,
+      "final": 4.2467
+    },
+    "PATROCINIO": {
+      "positivo": 2.4733,
+      "negativo": 0.0,
+      "final": 2.4733
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 1.5633,
+      "negativo": 0.3,
+      "final": 1.2633
+    }
+  },
+  "Lodo_esgoto_fertilizante.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 2.0733,
+      "negativo": 0.6167,
+      "final": 1.4567
+    },
+    "EXPOSICAO": {
+      "positivo": 0.2933,
+      "negativo": 0.6,
+      "final": -0.3067
+    },
+    "SERVICOS": {
+      "positivo": 2.45,
+      "negativo": 0.6167,
+      "final": 1.8333
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 3.0933,
+      "negativo": 0.6,
+      "final": 2.4933
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 2.17,
+      "negativo": 0.6167,
+      "final": 1.5533
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 1.14,
+      "negativo": 0.3167,
+      "final": 0.8233
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 3.3933,
+      "negativo": 0.6167,
+      "final": 2.7767
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 1.1667,
+      "negativo": 0.6167,
+      "final": 0.55
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.6,
+      "negativo": 0.6,
+      "final": 0.0
+    },
+    "SAUDE": {
+      "positivo": 1.21,
+      "negativo": 0.6167,
+      "final": 0.5933
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 3.28,
+      "negativo": 0.6167,
+      "final": 2.6633
+    },
+    "LEGAL": {
+      "positivo": 1.9333,
+      "negativo": 0.3167,
+      "final": 1.6167
+    },
+    "INOVACAO": {
+      "positivo": 1.16,
+      "negativo": 0.3,
+      "final": 0.86
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.0,
+      "negativo": 0.6167,
+      "final": -0.6167
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.89,
+      "negativo": 0.3,
+      "final": 0.59
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "CAMPANHAS": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "QUALIDADE": {
+      "positivo": 1.7267,
+      "negativo": 0.6167,
+      "final": 1.11
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 2.1867,
+      "negativo": 0.6167,
+      "final": 1.57
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.8667,
+      "negativo": 0.6167,
+      "final": 1.25
+    },
+    "FRAUDE": {
+      "positivo": 0.3,
+      "negativo": 0.3167,
+      "final": -0.0167
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 2.7067,
+      "negativo": 0.6,
+      "final": 2.1067
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.2067,
+      "negativo": 0.3,
+      "final": -0.0933
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.2,
+      "negativo": 0.6167,
+      "final": 0.5833
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.5767,
+      "negativo": 0.6167,
+      "final": -0.04
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.8833,
+      "negativo": 0.3167,
+      "final": 0.5667
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.2833,
+      "negativo": 0.3,
+      "final": -0.0167
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.4867,
+      "negativo": 0.6167,
+      "final": 0.87
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 2.4267,
+      "negativo": 0.6167,
+      "final": 1.81
+    },
+    "PATROCINIO": {
+      "positivo": 0.8167,
+      "negativo": 0.0,
+      "final": 0.8167
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.32,
+      "negativo": 0.6167,
+      "final": -0.2967
+    }
+  },
+  "Macrodrenagem_alagamentos.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 2.41,
+      "negativo": 0.0,
+      "final": 2.41
+    },
+    "EXPOSICAO": {
+      "positivo": 0.6167,
+      "negativo": 0.85,
+      "final": -0.2333
+    },
+    "SERVICOS": {
+      "positivo": 2.7167,
+      "negativo": 0.0,
+      "final": 2.7167
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 3.61,
+      "negativo": 0.0,
+      "final": 3.61
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 1.1833,
+      "negativo": 0.0,
+      "final": 1.1833
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.85,
+      "final": -0.85
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 2.0233,
+      "negativo": 0.0,
+      "final": 2.0233
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 4.2833,
+      "negativo": 0.0,
+      "final": 4.2833
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 1.2333,
+      "negativo": 0.0,
+      "final": 1.2333
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.5833,
+      "negativo": 0.5667,
+      "final": 0.0167
+    },
+    "SAUDE": {
+      "positivo": 1.76,
+      "negativo": 0.0,
+      "final": 1.76
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.1133,
+      "negativo": 0.0,
+      "final": 2.1133
+    },
+    "LEGAL": {
+      "positivo": 0.3333,
+      "negativo": 0.85,
+      "final": -0.5167
+    },
+    "INOVACAO": {
+      "positivo": 1.45,
+      "negativo": 0.2667,
+      "final": 1.1833
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 1.66,
+      "negativo": 0.0,
+      "final": 1.66
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.3067,
+      "negativo": 0.0,
+      "final": 0.3067
+    },
+    "ACIDENTE": {
+      "positivo": 0.5167,
+      "negativo": 0.85,
+      "final": -0.3333
+    },
+    "CAMPANHAS": {
+      "positivo": 0.5833,
+      "negativo": 0.5667,
+      "final": 0.0167
+    },
+    "QUALIDADE": {
+      "positivo": 0.9367,
+      "negativo": 0.0,
+      "final": 0.9367
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 3.4133,
+      "negativo": 0.0,
+      "final": 3.4133
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 2.4933,
+      "negativo": 0.0,
+      "final": 2.4933
+    },
+    "FRAUDE": {
+      "positivo": 0.6,
+      "negativo": 0.85,
+      "final": -0.25
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 3.0267,
+      "negativo": 0.0,
+      "final": 3.0267
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.35,
+      "negativo": 0.0,
+      "final": 0.35
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.6333,
+      "negativo": 0.0,
+      "final": 0.6333
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.3167,
+      "negativo": 0.8167,
+      "final": -0.5
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 5.0167,
+      "negativo": 0.0,
+      "final": 5.0167
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.2667,
+      "negativo": 0.2833,
+      "final": -0.0167
+    },
+    "INVESTIMENTO": {
+      "positivo": 3.8533,
+      "negativo": 0.0,
+      "final": 3.8533
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.2,
+      "negativo": 0.0,
+      "final": 1.2
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 4.2133,
+      "negativo": 0.0,
+      "final": 4.2133
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 2.8133,
+      "negativo": 0.0,
+      "final": 2.8133
+    }
+  },
+  "Manutenção_asfáltica.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.6267,
+      "negativo": 0.0,
+      "final": 0.6267
+    },
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "SERVICOS": {
+      "positivo": 1.21,
+      "negativo": 0.0,
+      "final": 1.21
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.3333,
+      "negativo": 0.0,
+      "final": 0.3333
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.6,
+      "negativo": 0.0,
+      "final": 0.6
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.3333,
+      "negativo": 0.2833,
+      "final": 0.05
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.5933,
+      "negativo": 0.0,
+      "final": 0.5933
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 1.2367,
+      "negativo": 0.0,
+      "final": 1.2367
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.2933,
+      "negativo": 0.0,
+      "final": 0.2933
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 0.6,
+      "negativo": 0.0,
+      "final": 0.6
+    },
+    "LEGAL": {
+      "positivo": 0.6333,
+      "negativo": 0.2833,
+      "final": 0.35
+    },
+    "INOVACAO": {
+      "positivo": 0.2,
+      "negativo": 0.2667,
+      "final": -0.0667
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 1.4433,
+      "negativo": 0.0,
+      "final": 1.4433
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.3067,
+      "negativo": 0.0,
+      "final": 0.3067
+    },
+    "ACIDENTE": {
+      "positivo": 0.5333,
+      "negativo": 0.2833,
+      "final": 0.25
+    },
+    "CAMPANHAS": {
+      "positivo": 0.25,
+      "negativo": 0.2833,
+      "final": -0.0333
+    },
+    "QUALIDADE": {
+      "positivo": 0.3267,
+      "negativo": 0.0,
+      "final": 0.3267
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.3,
+      "negativo": 0.0,
+      "final": 0.3
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.5467,
+      "negativo": 0.0,
+      "final": 1.5467
+    },
+    "FRAUDE": {
+      "positivo": 0.2667,
+      "negativo": 0.2833,
+      "final": -0.0167
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.62,
+      "negativo": 0.0,
+      "final": 0.62
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 2.1333,
+      "negativo": 0.0,
+      "final": 2.1333
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.8167,
+      "final": -0.8167
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.5833,
+      "negativo": 0.0,
+      "final": 0.5833
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.1733,
+      "negativo": 0.0,
+      "final": 1.1733
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.3133,
+      "negativo": 0.0,
+      "final": 0.3133
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.9267,
+      "negativo": 0.0,
+      "final": 0.9267
+    }
+  },
+  "Mercado_Financeiro_federalização.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.0,
+      "negativo": 1.5,
+      "final": -1.5
+    },
+    "EXPOSICAO": {
+      "positivo": 0.92,
+      "negativo": 1.8333,
+      "final": -0.9133
+    },
+    "SERVICOS": {
+      "positivo": 1.49,
+      "negativo": 1.5,
+      "final": -0.01
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 1.71,
+      "negativo": 1.8333,
+      "final": -0.1233
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 1.5,
+      "final": -1.5
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 1.1333,
+      "negativo": 0.9,
+      "final": 0.2333
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.8567,
+      "negativo": 1.51,
+      "final": -0.6533
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 1.7767,
+      "negativo": 1.5,
+      "final": 0.2767
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.2733,
+      "negativo": 1.5,
+      "final": -1.2267
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 1.2167,
+      "negativo": 0.6167,
+      "final": 0.6
+    },
+    "SAUDE": {
+      "positivo": 2.37,
+      "negativo": 1.8167,
+      "final": 0.5533
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 0.3,
+      "negativo": 1.5,
+      "final": -1.2
+    },
+    "LEGAL": {
+      "positivo": 0.85,
+      "negativo": 0.9,
+      "final": -0.05
+    },
+    "INOVACAO": {
+      "positivo": 1.91,
+      "negativo": 0.5833,
+      "final": 1.3267
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.0,
+      "negativo": 1.5,
+      "final": -1.5
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 1.5,
+      "negativo": 0.5833,
+      "final": 0.9167
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 1.2,
+      "final": -1.2
+    },
+    "CAMPANHAS": {
+      "positivo": 0.5333,
+      "negativo": 1.25,
+      "final": -0.7167
+    },
+    "QUALIDADE": {
+      "positivo": 1.4867,
+      "negativo": 1.7833,
+      "final": -0.2967
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 1.56,
+      "negativo": 1.5,
+      "final": 0.06
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.2533,
+      "negativo": 1.5,
+      "final": -0.2467
+    },
+    "FRAUDE": {
+      "positivo": 0.95,
+      "negativo": 0.9,
+      "final": 0.05
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.2867,
+      "negativo": 1.5333,
+      "final": -1.2467
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.1833,
+      "negativo": 1.8333,
+      "final": -1.65
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.2133,
+      "negativo": 1.2167,
+      "final": -0.0033
+    },
+    "INSTITUCIONAL": {
+      "positivo": 2.85,
+      "negativo": 0.3,
+      "final": 2.55
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.0,
+      "negativo": 1.2167,
+      "final": -1.2167
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 4.8267,
+      "negativo": 0.6167,
+      "final": 4.21
+    },
+    "INVESTIMENTO": {
+      "positivo": 3.1867,
+      "negativo": 0.85,
+      "final": 2.3367
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.9333,
+      "negativo": 1.8167,
+      "final": -0.8833
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 4.2667,
+      "negativo": 1.5,
+      "final": 2.7667
+    },
+    "PATROCINIO": {
+      "positivo": 1.0667,
+      "negativo": 0.0,
+      "final": 1.0667
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.6267,
+      "negativo": 1.25,
+      "final": -0.6233
+    }
+  },
+  "Modernização_rede_abastecimento.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 2.1033,
+      "negativo": 0.0,
+      "final": 2.1033
+    },
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "SERVICOS": {
+      "positivo": 3.66,
+      "negativo": 0.0,
+      "final": 3.66
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 1.4,
+      "negativo": 0.0,
+      "final": 1.4
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.56,
+      "negativo": 0.0,
+      "final": 0.56
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.2667,
+      "negativo": 0.5667,
+      "final": -0.3
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 2.0567,
+      "negativo": 0.0,
+      "final": 2.0567
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 4.6333,
+      "negativo": 0.0,
+      "final": 4.6333
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 1.1667,
+      "negativo": 0.0,
+      "final": 1.1667
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.5667,
+      "final": -0.2833
+    },
+    "SAUDE": {
+      "positivo": 1.4933,
+      "negativo": 0.0,
+      "final": 1.4933
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.4,
+      "negativo": 0.0,
+      "final": 2.4
+    },
+    "LEGAL": {
+      "positivo": 0.2667,
+      "negativo": 0.5667,
+      "final": -0.3
+    },
+    "INOVACAO": {
+      "positivo": 1.25,
+      "negativo": 0.0,
+      "final": 1.25
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.5933,
+      "negativo": 0.0,
+      "final": 0.5933
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.5833,
+      "negativo": 0.0,
+      "final": 0.5833
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "CAMPANHAS": {
+      "positivo": 0.3,
+      "negativo": 0.5667,
+      "final": -0.2667
+    },
+    "QUALIDADE": {
+      "positivo": 2.01,
+      "negativo": 0.0,
+      "final": 2.01
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 3.7267,
+      "negativo": 0.0,
+      "final": 3.7267
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.8667,
+      "negativo": 0.0,
+      "final": 1.8667
+    },
+    "FRAUDE": {
+      "positivo": 0.6,
+      "negativo": 0.5667,
+      "final": 0.0333
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.6,
+      "negativo": 0.0,
+      "final": 0.6
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.3767,
+      "negativo": 0.0,
+      "final": 0.3767
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.5933,
+      "negativo": 0.0,
+      "final": 0.5933
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.3,
+      "negativo": 0.5333,
+      "final": -0.2333
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.0967,
+      "negativo": 0.0,
+      "final": 1.0967
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.2667,
+      "negativo": 0.0,
+      "final": 0.2667
+    },
+    "INVESTIMENTO": {
+      "positivo": 2.9267,
+      "negativo": 0.0,
+      "final": 2.9267
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 2.7333,
+      "negativo": 0.0,
+      "final": 2.7333
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 3.64,
+      "negativo": 0.0,
+      "final": 3.64
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.3067,
+      "negativo": 0.0,
+      "final": 0.3067
+    }
+  },
+  "morte_empregado_ETE.txt": {
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "SERVICOS": {
+      "positivo": 0.8833,
+      "negativo": 0.0,
+      "final": 0.8833
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.6667,
+      "negativo": 0.0,
+      "final": 0.6667
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 1.2267,
+      "negativo": 0.0,
+      "final": 1.2267
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.5833,
+      "final": -0.5833
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.3067,
+      "negativo": 0.0,
+      "final": 0.3067
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 2.46,
+      "negativo": 0.0,
+      "final": 2.46
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.3,
+      "final": -0.0167
+    },
+    "SAUDE": {
+      "positivo": 0.3267,
+      "negativo": 0.0,
+      "final": 0.3267
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 0.6267,
+      "negativo": 0.0,
+      "final": 0.6267
+    },
+    "LEGAL": {
+      "positivo": 1.4,
+      "negativo": 0.5833,
+      "final": 0.8167
+    },
+    "INOVACAO": {
+      "positivo": 0.2667,
+      "negativo": 0.2833,
+      "final": -0.0167
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "ACIDENTE": {
+      "positivo": 1.5,
+      "negativo": 0.2833,
+      "final": 1.2167
+    },
+    "CAMPANHAS": {
+      "positivo": 0.8333,
+      "negativo": 0.0,
+      "final": 0.8333
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.62,
+      "negativo": 0.0,
+      "final": 0.62
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 2.4867,
+      "negativo": 0.0,
+      "final": 2.4867
+    },
+    "FRAUDE": {
+      "positivo": 0.3333,
+      "negativo": 0.5833,
+      "final": -0.25
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.7733,
+      "negativo": 0.0,
+      "final": 0.7733
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.6267,
+      "negativo": 0.0,
+      "final": 0.6267
+    },
+    "INSTITUCIONAL": {
+      "positivo": 1.3833,
+      "negativo": 0.0,
+      "final": 1.3833
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.2667,
+      "negativo": 0.3,
+      "final": -0.0333
+    },
+    "INVESTIMENTO": {
+      "positivo": 1.7667,
+      "negativo": 0.2833,
+      "final": 1.4833
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.5933,
+      "negativo": 0.0,
+      "final": 0.5933
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 3.6133,
+      "negativo": 0.0,
+      "final": 3.6133
+    },
+    "PATROCINIO": {
+      "positivo": 1.1,
+      "negativo": 0.0,
+      "final": 1.1
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.3167,
+      "negativo": 0.0,
+      "final": 0.3167
+    }
+  },
+  "Obras_Projetos_Congonhas.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.83,
+      "negativo": 0.0,
+      "final": 1.83
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 1.1667,
+      "final": -0.8567
+    },
+    "SERVICOS": {
+      "positivo": 3.01,
+      "negativo": 0.3,
+      "final": 2.71
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 2.15,
+      "negativo": 0.6,
+      "final": 1.55
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.6,
+      "negativo": 0.3,
+      "final": 0.3
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.8667,
+      "final": -0.8667
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.3267,
+      "negativo": 0.2933,
+      "final": 0.0333
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 2.76,
+      "negativo": 0.0,
+      "final": 2.76
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.9,
+      "negativo": 0.5833,
+      "final": 0.3167
+    },
+    "SAUDE": {
+      "positivo": 2.0767,
+      "negativo": 0.5667,
+      "final": 1.51
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.12,
+      "negativo": 0.3,
+      "final": 1.82
+    },
+    "LEGAL": {
+      "positivo": 1.4,
+      "negativo": 0.8667,
+      "final": 0.5333
+    },
+    "INOVACAO": {
+      "positivo": 2.1267,
+      "negativo": 0.2833,
+      "final": 1.8433
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.5333,
+      "negativo": 0.0,
+      "final": 0.5333
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 1.4833,
+      "negativo": 0.2833,
+      "final": 1.2
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 1.1667,
+      "final": -1.1667
+    },
+    "CAMPANHAS": {
+      "positivo": 1.7,
+      "negativo": 0.8667,
+      "final": 0.8333
+    },
+    "QUALIDADE": {
+      "positivo": 1.5033,
+      "negativo": 0.5667,
+      "final": 0.9367
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 1.5467,
+      "negativo": 0.0,
+      "final": 1.5467
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.8467,
+      "negativo": 0.0,
+      "final": 1.8467
+    },
+    "FRAUDE": {
+      "positivo": 0.5667,
+      "negativo": 0.8667,
+      "final": -0.3
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.9067,
+      "negativo": 0.3,
+      "final": 0.6067
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.5167,
+      "negativo": 0.2833,
+      "final": 0.2333
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 2.2133,
+      "negativo": 0.3,
+      "final": 1.9133
+    },
+    "INSTITUCIONAL": {
+      "positivo": 1.7,
+      "negativo": 0.5333,
+      "final": 1.1667
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.65,
+      "negativo": 0.0,
+      "final": 1.65
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.91,
+      "negativo": 0.3,
+      "final": 0.61
+    },
+    "INVESTIMENTO": {
+      "positivo": 2.0867,
+      "negativo": 0.2833,
+      "final": 1.8033
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.7933,
+      "negativo": 0.5667,
+      "final": 1.2267
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.8933,
+      "negativo": 0.0,
+      "final": 0.8933
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 1.2433,
+      "negativo": 0.0,
+      "final": 1.2433
+    }
+  },
+  "Obras_saneamento.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 2.1033,
+      "negativo": 0.0,
+      "final": 2.1033
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 0.8667,
+      "final": -0.5567
+    },
+    "SERVICOS": {
+      "positivo": 3.9167,
+      "negativo": 0.0,
+      "final": 3.9167
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 1.0833,
+      "negativo": 0.3,
+      "final": 0.7833
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 2.3933,
+      "negativo": 0.0,
+      "final": 2.3933
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 1.7133,
+      "negativo": 0.0,
+      "final": 1.7133
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 6.1367,
+      "negativo": 0.0,
+      "final": 6.1367
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "SAUDE": {
+      "positivo": 3.63,
+      "negativo": 0.2833,
+      "final": 3.3467
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.1133,
+      "negativo": 0.0,
+      "final": 2.1133
+    },
+    "LEGAL": {
+      "positivo": 1.6167,
+      "negativo": 0.5667,
+      "final": 1.05
+    },
+    "INOVACAO": {
+      "positivo": 1.2,
+      "negativo": 0.0,
+      "final": 1.2
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.2667,
+      "negativo": 0.0,
+      "final": 0.2667
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.8833,
+      "negativo": 0.0,
+      "final": 0.8833
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.8667,
+      "final": -0.8667
+    },
+    "CAMPANHAS": {
+      "positivo": 0.5833,
+      "negativo": 0.5833,
+      "final": 0.0
+    },
+    "QUALIDADE": {
+      "positivo": 1.16,
+      "negativo": 0.2833,
+      "final": 0.8767
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 3.72,
+      "negativo": 0.0,
+      "final": 3.72
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 4.0333,
+      "negativo": 0.0,
+      "final": 4.0333
+    },
+    "FRAUDE": {
+      "positivo": 0.3333,
+      "negativo": 0.5667,
+      "final": -0.2333
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 1.2733,
+      "negativo": 0.3,
+      "final": 0.9733
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.1833,
+      "negativo": 0.0,
+      "final": 0.1833
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.58,
+      "negativo": 0.0,
+      "final": 1.58
+    },
+    "INSTITUCIONAL": {
+      "positivo": 2.15,
+      "negativo": 0.5333,
+      "final": 1.6167
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.0967,
+      "negativo": 0.0,
+      "final": 1.0967
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.55,
+      "negativo": 0.0,
+      "final": 0.55
+    },
+    "INVESTIMENTO": {
+      "positivo": 3.5333,
+      "negativo": 0.0,
+      "final": 3.5333
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.4933,
+      "negativo": 0.2833,
+      "final": 1.21
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 4.5733,
+      "negativo": 0.0,
+      "final": 4.5733
+    },
+    "PATROCINIO": {
+      "positivo": 0.25,
+      "negativo": 0.0,
+      "final": 0.25
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.6233,
+      "negativo": 0.0,
+      "final": 0.6233
+    }
+  },
+  "Obras_viarias.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.6233,
+      "negativo": 0.0,
+      "final": 0.6233
+    },
+    "EXPOSICAO": {
+      "positivo": 0.3167,
+      "negativo": 0.2833,
+      "final": 0.0333
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.2667,
+      "negativo": 0.2833,
+      "final": -0.0167
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.6233,
+      "negativo": 0.0,
+      "final": 0.6233
+    },
+    "LEGAL": {
+      "positivo": 0.3,
+      "negativo": 0.2833,
+      "final": 0.0167
+    },
+    "INOVACAO": {
+      "positivo": 0.2,
+      "negativo": 0.0,
+      "final": 0.2
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.5933,
+      "negativo": 0.0,
+      "final": 0.5933
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.3167,
+      "negativo": 0.0,
+      "final": 0.3167
+    },
+    "ACIDENTE": {
+      "positivo": 0.2667,
+      "negativo": 0.2833,
+      "final": -0.0167
+    },
+    "CAMPANHAS": {
+      "positivo": 0.25,
+      "negativo": 0.2833,
+      "final": -0.0333
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.3,
+      "negativo": 0.0,
+      "final": 0.3
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.3,
+      "negativo": 0.0,
+      "final": 0.3
+    },
+    "FRAUDE": {
+      "positivo": 0.3167,
+      "negativo": 0.2833,
+      "final": 0.0333
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.32,
+      "negativo": 0.0,
+      "final": 0.32
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.28,
+      "negativo": 0.0,
+      "final": 0.28
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.2667,
+      "final": -0.2667
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.26,
+      "negativo": 0.0,
+      "final": 0.26
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.3,
+      "negativo": 0.2667,
+      "final": 0.0333
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.5867,
+      "negativo": 0.0,
+      "final": 0.5867
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.3133,
+      "negativo": 0.0,
+      "final": 0.3133
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.31,
+      "negativo": 0.0,
+      "final": 0.31
+    }
+  },
+  "Parcelamento_Contas_Agua_Energia.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.88,
+      "negativo": 0.0,
+      "final": 0.88
+    },
+    "EXPOSICAO": {
+      "positivo": 0.6267,
+      "negativo": 0.3,
+      "final": 0.3267
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.55,
+      "negativo": 0.0,
+      "final": 0.55
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.32,
+      "negativo": 0.0,
+      "final": 0.32
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.28,
+      "negativo": 0.0,
+      "final": 0.28
+    },
+    "SAUDE": {
+      "positivo": 0.85,
+      "negativo": 0.2833,
+      "final": 0.5667
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 1.8333,
+      "negativo": 0.0,
+      "final": 1.8333
+    },
+    "LEGAL": {
+      "positivo": 0.5833,
+      "negativo": 0.0,
+      "final": 0.5833
+    },
+    "INOVACAO": {
+      "positivo": 0.0,
+      "negativo": 0.2667,
+      "final": -0.2667
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.3067,
+      "negativo": 0.0,
+      "final": 0.3067
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "CAMPANHAS": {
+      "positivo": 0.25,
+      "negativo": 0.3,
+      "final": -0.05
+    },
+    "QUALIDADE": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.64,
+      "negativo": 0.0,
+      "final": 0.64
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.2,
+      "negativo": 0.0,
+      "final": 0.2
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.2067,
+      "negativo": 0.0,
+      "final": 1.2067
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.5333,
+      "negativo": 0.2833,
+      "final": 0.25
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.8433,
+      "negativo": 0.0,
+      "final": 0.8433
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.2833,
+      "negativo": 0.2833,
+      "final": 0.0
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.0,
+      "negativo": 0.2667,
+      "final": -0.2667
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.8667,
+      "negativo": 0.2833,
+      "final": 0.5833
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.9433,
+      "negativo": 0.0,
+      "final": 0.9433
+    }
+  },
+  "Patrocinio_ArteNasAguas.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.88,
+      "negativo": 0.9167,
+      "final": -0.0367
+    },
+    "EXPOSICAO": {
+      "positivo": 1.22,
+      "negativo": 0.2833,
+      "final": 0.9367
+    },
+    "SERVICOS": {
+      "positivo": 0.3033,
+      "negativo": 0.9167,
+      "final": -0.6133
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.6167,
+      "negativo": 0.5667,
+      "final": 0.05
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.9167,
+      "final": -0.9167
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 1.2167,
+      "final": -1.2167
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.0,
+      "negativo": 0.6333,
+      "final": -0.6333
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.9433,
+      "negativo": 0.9167,
+      "final": 0.0267
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.9167,
+      "final": -0.9167
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.6333,
+      "negativo": 0.9333,
+      "final": -0.3
+    },
+    "SAUDE": {
+      "positivo": 1.2267,
+      "negativo": 0.6,
+      "final": 0.6267
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 1.8333,
+      "negativo": 0.9167,
+      "final": 0.9167
+    },
+    "LEGAL": {
+      "positivo": 0.65,
+      "negativo": 1.2167,
+      "final": -0.5667
+    },
+    "INOVACAO": {
+      "positivo": 1.36,
+      "negativo": 0.8833,
+      "final": 0.4767
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.2667,
+      "negativo": 0.9167,
+      "final": -0.65
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.6,
+      "negativo": 0.8833,
+      "final": -0.2833
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.9167,
+      "final": -0.9167
+    },
+    "CAMPANHAS": {
+      "positivo": 0.8333,
+      "negativo": 0.2833,
+      "final": 0.55
+    },
+    "QUALIDADE": {
+      "positivo": 0.61,
+      "negativo": 0.6333,
+      "final": -0.0233
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.94,
+      "negativo": 0.9167,
+      "final": 0.0233
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.3,
+      "negativo": 0.9167,
+      "final": -0.6167
+    },
+    "FRAUDE": {
+      "positivo": 0.5833,
+      "negativo": 1.2167,
+      "final": -0.6333
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.6,
+      "negativo": 0.5667,
+      "final": 0.0333
+    },
+    "ACAO SOCIAL": {
+      "positivo": 1.14,
+      "negativo": 0.0,
+      "final": 1.14
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.6467,
+      "negativo": 0.6333,
+      "final": 0.0133
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.55,
+      "negativo": 0.8667,
+      "final": -0.3167
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.0967,
+      "negativo": 0.6333,
+      "final": 0.4633
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.3167,
+      "negativo": 0.9333,
+      "final": -0.6167
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.8933,
+      "negativo": 1.4167,
+      "final": -0.5233
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.3133,
+      "negativo": 0.9167,
+      "final": -0.6033
+    },
+    "PATROCINIO": {
+      "positivo": 5.1433,
+      "negativo": 0.0,
+      "final": 5.1433
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    }
+  },
+  "Patrocinio_CampanhaPopularizaçãoTeatro.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.88,
+      "negativo": 0.9167,
+      "final": -0.0367
+    },
+    "EXPOSICAO": {
+      "positivo": 1.22,
+      "negativo": 0.2833,
+      "final": 0.9367
+    },
+    "SERVICOS": {
+      "positivo": 0.3033,
+      "negativo": 0.9167,
+      "final": -0.6133
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.6167,
+      "negativo": 0.5667,
+      "final": 0.05
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.9167,
+      "final": -0.9167
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 1.2167,
+      "final": -1.2167
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.0,
+      "negativo": 0.6333,
+      "final": -0.6333
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.9433,
+      "negativo": 0.9167,
+      "final": 0.0267
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.9167,
+      "final": -0.9167
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.6333,
+      "negativo": 0.9333,
+      "final": -0.3
+    },
+    "SAUDE": {
+      "positivo": 1.2267,
+      "negativo": 0.6,
+      "final": 0.6267
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 1.8333,
+      "negativo": 0.9167,
+      "final": 0.9167
+    },
+    "LEGAL": {
+      "positivo": 0.65,
+      "negativo": 1.2167,
+      "final": -0.5667
+    },
+    "INOVACAO": {
+      "positivo": 1.36,
+      "negativo": 0.8833,
+      "final": 0.4767
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.2667,
+      "negativo": 0.9167,
+      "final": -0.65
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.6,
+      "negativo": 0.8833,
+      "final": -0.2833
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.9167,
+      "final": -0.9167
+    },
+    "CAMPANHAS": {
+      "positivo": 0.8333,
+      "negativo": 0.2833,
+      "final": 0.55
+    },
+    "QUALIDADE": {
+      "positivo": 0.61,
+      "negativo": 0.6333,
+      "final": -0.0233
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.94,
+      "negativo": 0.9167,
+      "final": 0.0233
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.3,
+      "negativo": 0.9167,
+      "final": -0.6167
+    },
+    "FRAUDE": {
+      "positivo": 0.5833,
+      "negativo": 1.2167,
+      "final": -0.6333
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.6,
+      "negativo": 0.5667,
+      "final": 0.0333
+    },
+    "ACAO SOCIAL": {
+      "positivo": 1.14,
+      "negativo": 0.0,
+      "final": 1.14
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.6467,
+      "negativo": 0.6333,
+      "final": 0.0133
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.55,
+      "negativo": 0.8667,
+      "final": -0.3167
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.0967,
+      "negativo": 0.6333,
+      "final": 0.4633
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.3167,
+      "negativo": 0.9333,
+      "final": -0.6167
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.8933,
+      "negativo": 1.4167,
+      "final": -0.5233
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.3133,
+      "negativo": 0.9167,
+      "final": -0.6033
+    },
+    "PATROCINIO": {
+      "positivo": 5.1433,
+      "negativo": 0.0,
+      "final": 5.1433
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    }
+  },
+  "Patrocínio_Mostra_cinema.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "EXPOSICAO": {
+      "positivo": 1.23,
+      "negativo": 0.0,
+      "final": 1.23
+    },
+    "SERVICOS": {
+      "positivo": 0.56,
+      "negativo": 0.3167,
+      "final": 0.2433
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.5167,
+      "negativo": 0.2833,
+      "final": 0.2333
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.3333,
+      "negativo": 0.3167,
+      "final": 0.0167
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.2667,
+      "negativo": 0.3167,
+      "final": -0.05
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.28,
+      "negativo": 0.3167,
+      "final": -0.0367
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2667,
+      "negativo": 0.3167,
+      "final": -0.05
+    },
+    "SAUDE": {
+      "positivo": 0.9267,
+      "negativo": 0.3,
+      "final": 0.6267
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "LEGAL": {
+      "positivo": 0.3167,
+      "negativo": 0.3167,
+      "final": 0.0
+    },
+    "INOVACAO": {
+      "positivo": 1.4767,
+      "negativo": 0.3,
+      "final": 1.1767
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "CAMPANHAS": {
+      "positivo": 0.5833,
+      "negativo": 0.0,
+      "final": 0.5833
+    },
+    "QUALIDADE": {
+      "positivo": 0.61,
+      "negativo": 0.3167,
+      "final": 0.2933
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.2933,
+      "negativo": 0.3167,
+      "final": -0.0233
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.2933,
+      "negativo": 0.3167,
+      "final": -0.0233
+    },
+    "FRAUDE": {
+      "positivo": 0.3,
+      "negativo": 0.3167,
+      "final": -0.0167
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 1.82,
+      "negativo": 0.2833,
+      "final": 1.5367
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.1833,
+      "negativo": 0.0,
+      "final": 0.1833
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.24,
+      "negativo": 0.3167,
+      "final": 0.9233
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.2333,
+      "negativo": 0.3,
+      "final": -0.0667
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.5733,
+      "negativo": 0.8333,
+      "final": -0.26
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.58,
+      "negativo": 0.3167,
+      "final": 0.2633
+    },
+    "PATROCINIO": {
+      "positivo": 1.82,
+      "negativo": 0.0,
+      "final": 1.82
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.3067,
+      "negativo": 0.3,
+      "final": 0.0067
+    }
+  },
+  "Pesquisa_desenvolvimento_inovação.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.88,
+      "negativo": 0.6,
+      "final": 0.28
+    },
+    "EXPOSICAO": {
+      "positivo": 1.23,
+      "negativo": 0.8667,
+      "final": 0.3633
+    },
+    "SERVICOS": {
+      "positivo": 1.8067,
+      "negativo": 0.6,
+      "final": 1.2067
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 3.61,
+      "negativo": 0.5833,
+      "final": 3.0267
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 2.17,
+      "negativo": 0.6,
+      "final": 1.57
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.3333,
+      "negativo": 1.1833,
+      "final": -0.85
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 1.14,
+      "negativo": 0.3167,
+      "final": 0.8233
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 3.05,
+      "negativo": 0.6,
+      "final": 2.45
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.84,
+      "negativo": 0.6,
+      "final": 0.24
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.8667,
+      "negativo": 0.6167,
+      "final": 0.25
+    },
+    "SAUDE": {
+      "positivo": 1.8533,
+      "negativo": 0.5833,
+      "final": 1.27
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.7067,
+      "negativo": 0.6,
+      "final": 2.1067
+    },
+    "LEGAL": {
+      "positivo": 0.25,
+      "negativo": 1.1833,
+      "final": -0.9333
+    },
+    "INOVACAO": {
+      "positivo": 4.0333,
+      "negativo": 0.5833,
+      "final": 3.45
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.2667,
+      "negativo": 0.6,
+      "final": -0.3333
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 1.49,
+      "negativo": 0.5833,
+      "final": 0.9067
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 1.4833,
+      "final": -1.4833
+    },
+    "CAMPANHAS": {
+      "positivo": 0.2833,
+      "negativo": 0.5833,
+      "final": -0.3
+    },
+    "QUALIDADE": {
+      "positivo": 1.71,
+      "negativo": 0.6,
+      "final": 1.11
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 2.1533,
+      "negativo": 0.6,
+      "final": 1.5533
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 3.0667,
+      "negativo": 0.6,
+      "final": 2.4667
+    },
+    "FRAUDE": {
+      "positivo": 0.3333,
+      "negativo": 1.1833,
+      "final": -0.85
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 4.2333,
+      "negativo": 0.5833,
+      "final": 3.65
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.9333,
+      "negativo": 0.2833,
+      "final": 0.65
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.94,
+      "negativo": 0.3167,
+      "final": 0.6233
+    },
+    "INSTITUCIONAL": {
+      "positivo": 1.3833,
+      "negativo": 0.5667,
+      "final": 0.8167
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.8367,
+      "negativo": 0.3167,
+      "final": 0.52
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.8667,
+      "negativo": 0.6167,
+      "final": 0.25
+    },
+    "INVESTIMENTO": {
+      "positivo": 4.0933,
+      "negativo": 1.1167,
+      "final": 2.9767
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.6133,
+      "negativo": 0.5833,
+      "final": 0.03
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 4.5133,
+      "negativo": 0.6,
+      "final": 3.9133
+    },
+    "PATROCINIO": {
+      "positivo": 2.4733,
+      "negativo": 0.0,
+      "final": 2.4733
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    }
+  },
+  "Privatizacao_Copasa.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 2.3933,
+      "negativo": 0.3,
+      "final": 2.0933
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 0.9167,
+      "final": -0.6067
+    },
+    "SERVICOS": {
+      "positivo": 1.2433,
+      "negativo": 0.3,
+      "final": 0.9433
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 1.4667,
+      "negativo": 0.9167,
+      "final": 0.55
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.2667,
+      "negativo": 0.0,
+      "final": 0.2667
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.9167,
+      "negativo": 0.2933,
+      "final": 0.6233
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 1.2233,
+      "negativo": 0.3,
+      "final": 0.9233
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.28,
+      "negativo": 0.3,
+      "final": -0.02
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 1.5,
+      "negativo": 0.2833,
+      "final": 1.2167
+    },
+    "SAUDE": {
+      "positivo": 1.81,
+      "negativo": 0.8833,
+      "final": 0.9267
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.7267,
+      "negativo": 0.3,
+      "final": 2.4267
+    },
+    "LEGAL": {
+      "positivo": 1.1,
+      "negativo": 0.2833,
+      "final": 0.8167
+    },
+    "INOVACAO": {
+      "positivo": 2.5933,
+      "negativo": 0.0,
+      "final": 2.5933
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 1.1733,
+      "negativo": 0.0,
+      "final": 1.1733
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 1.1833,
+      "final": -1.1833
+    },
+    "CAMPANHAS": {
+      "positivo": 0.5833,
+      "negativo": 0.9167,
+      "final": -0.3333
+    },
+    "QUALIDADE": {
+      "positivo": 1.1767,
+      "negativo": 0.8667,
+      "final": 0.31
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 3.1267,
+      "negativo": 0.3,
+      "final": 2.8267
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.94,
+      "negativo": 0.3,
+      "final": 0.64
+    },
+    "FRAUDE": {
+      "positivo": 0.6333,
+      "negativo": 0.2833,
+      "final": 0.35
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.5933,
+      "negativo": 0.9167,
+      "final": -0.3233
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.5333,
+      "negativo": 0.6,
+      "final": -0.0667
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.54,
+      "negativo": 0.3,
+      "final": 1.24
+    },
+    "INSTITUCIONAL": {
+      "positivo": 1.4,
+      "negativo": 0.0,
+      "final": 1.4
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.5767,
+      "negativo": 0.3,
+      "final": 0.2767
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 1.1167,
+      "negativo": 0.0,
+      "final": 1.1167
+    },
+    "INVESTIMENTO": {
+      "positivo": 2.92,
+      "negativo": 0.0,
+      "final": 2.92
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 2.44,
+      "negativo": 0.8833,
+      "final": 1.5567
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 1.5267,
+      "negativo": 0.3,
+      "final": 1.2267
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.3067,
+      "negativo": 0.3167,
+      "final": -0.01
+    }
+  },
+  "Privatização_Federalização.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.3067,
+      "negativo": 0.6,
+      "final": -0.2933
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 1.5167,
+      "final": -1.2067
+    },
+    "SERVICOS": {
+      "positivo": 0.62,
+      "negativo": 0.6,
+      "final": 0.02
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 1.4167,
+      "negativo": 1.2333,
+      "final": 0.1833
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.8667,
+      "negativo": 0.2833,
+      "final": 0.5833
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 1.1233,
+      "negativo": 0.2933,
+      "final": 0.83
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.29,
+      "negativo": 0.6,
+      "final": -0.31
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 1.2333,
+      "negativo": 0.0,
+      "final": 1.2333
+    },
+    "SAUDE": {
+      "positivo": 1.82,
+      "negativo": 1.2,
+      "final": 0.62
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "LEGAL": {
+      "positivo": 1.1667,
+      "negativo": 0.2833,
+      "final": 0.8833
+    },
+    "INOVACAO": {
+      "positivo": 2.6267,
+      "negativo": 0.0,
+      "final": 2.6267
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 1.1733,
+      "negativo": 0.0,
+      "final": 1.1733
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 1.1833,
+      "final": -1.1833
+    },
+    "CAMPANHAS": {
+      "positivo": 0.5833,
+      "negativo": 1.2333,
+      "final": -0.65
+    },
+    "QUALIDADE": {
+      "positivo": 1.77,
+      "negativo": 1.1667,
+      "final": 0.6033
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 1.2533,
+      "negativo": 0.6,
+      "final": 0.6533
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.2533,
+      "negativo": 0.6,
+      "final": 0.6533
+    },
+    "FRAUDE": {
+      "positivo": 1.2333,
+      "negativo": 0.2833,
+      "final": 0.95
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.6067,
+      "negativo": 1.2333,
+      "final": -0.6267
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.5433,
+      "negativo": 1.1833,
+      "final": -0.64
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.52,
+      "negativo": 0.6,
+      "final": 0.92
+    },
+    "INSTITUCIONAL": {
+      "positivo": 1.7,
+      "negativo": 0.0,
+      "final": 1.7
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 2.2833,
+      "negativo": 0.0,
+      "final": 2.2833
+    },
+    "INVESTIMENTO": {
+      "positivo": 3.47,
+      "negativo": 0.0,
+      "final": 3.47
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.6133,
+      "negativo": 1.2,
+      "final": -0.5867
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 3.96,
+      "negativo": 0.6,
+      "final": 3.36
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.3067,
+      "negativo": 0.6333,
+      "final": -0.3267
+    }
+  },
+  "Redução_desperdício.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 3.0567,
+      "negativo": 0.0,
+      "final": 3.0567
+    },
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 0.5833,
+      "final": -0.5833
+    },
+    "SERVICOS": {
+      "positivo": 4.2633,
+      "negativo": 0.3,
+      "final": 3.9633
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.3,
+      "negativo": 0.3,
+      "final": 0.0
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.2667,
+      "negativo": 0.3,
+      "final": -0.0333
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 1.18,
+      "negativo": 0.2933,
+      "final": 0.8867
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 1.8667,
+      "negativo": 0.0,
+      "final": 1.8667
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.85,
+      "final": -0.5667
+    },
+    "SAUDE": {
+      "positivo": 0.8667,
+      "negativo": 0.2833,
+      "final": 0.5833
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.6867,
+      "negativo": 0.3,
+      "final": 2.3867
+    },
+    "LEGAL": {
+      "positivo": 0.2833,
+      "negativo": 0.5667,
+      "final": -0.2833
+    },
+    "INOVACAO": {
+      "positivo": 0.7167,
+      "negativo": 0.0,
+      "final": 0.7167
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.86,
+      "negativo": 0.0,
+      "final": 0.86
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.5833,
+      "negativo": 0.0,
+      "final": 0.5833
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "CAMPANHAS": {
+      "positivo": 0.55,
+      "negativo": 0.2833,
+      "final": 0.2667
+    },
+    "QUALIDADE": {
+      "positivo": 1.1167,
+      "negativo": 0.2833,
+      "final": 0.8333
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 3.4,
+      "negativo": 0.0,
+      "final": 3.4
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.54,
+      "negativo": 0.0,
+      "final": 1.54
+    },
+    "FRAUDE": {
+      "positivo": 0.3333,
+      "negativo": 0.5667,
+      "final": -0.2333
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.32,
+      "negativo": 0.0,
+      "final": 0.32
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.1833,
+      "negativo": 0.0,
+      "final": 0.1833
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.6333,
+      "negativo": 0.3,
+      "final": 0.3333
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.3,
+      "negativo": 0.8,
+      "final": -0.5
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.9267,
+      "negativo": 0.0,
+      "final": 1.9267
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.8933,
+      "negativo": 0.0,
+      "final": 0.8933
+    },
+    "INVESTIMENTO": {
+      "positivo": 2.9233,
+      "negativo": 0.0,
+      "final": 2.9233
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.7933,
+      "negativo": 0.2833,
+      "final": 1.51
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 1.4933,
+      "negativo": 0.0,
+      "final": 1.4933
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.9333,
+      "negativo": 0.0,
+      "final": 0.9333
+    }
+  },
+  "Renegociação_dívidas_estados.txt": {
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 0.2833,
+      "final": 0.0267
+    },
+    "SERVICOS": {
+      "positivo": 0.2833,
+      "negativo": 0.0,
+      "final": 0.2833
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.8433,
+      "negativo": 0.0,
+      "final": 0.8433
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 1.45,
+      "negativo": 0.2833,
+      "final": 1.1667
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.6333,
+      "negativo": 0.0,
+      "final": 0.6333
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.29,
+      "negativo": 0.0,
+      "final": 0.29
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 1.1667,
+      "negativo": 0.0,
+      "final": 1.1667
+    },
+    "SAUDE": {
+      "positivo": 0.97,
+      "negativo": 0.0,
+      "final": 0.97
+    },
+    "LEGAL": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "INOVACAO": {
+      "positivo": 1.4,
+      "negativo": 0.0,
+      "final": 1.4
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.6167,
+      "negativo": 0.0,
+      "final": 0.6167
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "CAMPANHAS": {
+      "positivo": 0.5333,
+      "negativo": 0.0,
+      "final": 0.5333
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 1.2133,
+      "negativo": 0.0,
+      "final": 1.2133
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.2133,
+      "negativo": 0.0,
+      "final": 1.2133
+    },
+    "FRAUDE": {
+      "positivo": 0.6,
+      "negativo": 0.2833,
+      "final": 0.3167
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.9067,
+      "negativo": 0.0,
+      "final": 0.9067
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.1667,
+      "negativo": 0.2833,
+      "final": -0.1167
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.5133,
+      "negativo": 0.0,
+      "final": 1.5133
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.2333,
+      "negativo": 0.0,
+      "final": 0.2333
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.5933,
+      "negativo": 0.0,
+      "final": 0.5933
+    },
+    "INVESTIMENTO": {
+      "positivo": 2.9333,
+      "negativo": 0.0,
+      "final": 2.9333
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 4.7933,
+      "negativo": 0.0,
+      "final": 4.7933
+    }
+  },
+  "Reservatório_recupera_nível.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 2.73,
+      "negativo": 0.0,
+      "final": 2.73
+    },
+    "EXPOSICAO": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "SERVICOS": {
+      "positivo": 2.7567,
+      "negativo": 0.0,
+      "final": 2.7567
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.3167,
+      "negativo": 0.0,
+      "final": 0.3167
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.3333,
+      "negativo": 0.2833,
+      "final": 0.05
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 2.06,
+      "negativo": 0.0,
+      "final": 2.06
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 3.68,
+      "negativo": 0.0,
+      "final": 3.68
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 4.6667,
+      "negativo": 0.0,
+      "final": 4.6667
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.55,
+      "negativo": 0.5667,
+      "final": -0.0167
+    },
+    "SAUDE": {
+      "positivo": 1.4333,
+      "negativo": 0.0,
+      "final": 1.4333
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.4,
+      "negativo": 0.0,
+      "final": 2.4
+    },
+    "LEGAL": {
+      "positivo": 0.9,
+      "negativo": 0.5667,
+      "final": 0.3333
+    },
+    "INOVACAO": {
+      "positivo": 1.7933,
+      "negativo": 0.2667,
+      "final": 1.5267
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.2667,
+      "negativo": 0.0,
+      "final": 0.2667
+    },
+    "ACIDENTE": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "CAMPANHAS": {
+      "positivo": 0.55,
+      "negativo": 0.2833,
+      "final": 0.2667
+    },
+    "QUALIDADE": {
+      "positivo": 2.0967,
+      "negativo": 0.0,
+      "final": 2.0967
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 3.4133,
+      "negativo": 0.0,
+      "final": 3.4133
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 1.2333,
+      "negativo": 0.0,
+      "final": 1.2333
+    },
+    "FRAUDE": {
+      "positivo": 0.9,
+      "negativo": 0.5667,
+      "final": 0.3333
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 1.54,
+      "negativo": 0.0,
+      "final": 1.54
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.1833,
+      "negativo": 0.0,
+      "final": 0.1833
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.5533,
+      "negativo": 0.0,
+      "final": 1.5533
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 0.8167,
+      "final": -0.8167
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.3767,
+      "negativo": 0.0,
+      "final": 1.3767
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.2667,
+      "negativo": 0.2833,
+      "final": -0.0167
+    },
+    "INVESTIMENTO": {
+      "positivo": 2.9433,
+      "negativo": 0.0,
+      "final": 2.9433
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 1.4667,
+      "negativo": 0.0,
+      "final": 1.4667
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 1.5133,
+      "negativo": 0.0,
+      "final": 1.5133
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 1.8867,
+      "negativo": 0.0,
+      "final": 1.8867
+    }
+  },
+  "taxa_de_lixo.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 1.5133,
+      "negativo": 0.0,
+      "final": 1.5133
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 0.3,
+      "final": 0.01
+    },
+    "SERVICOS": {
+      "positivo": 0.62,
+      "negativo": 0.0,
+      "final": 0.62
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.85,
+      "negativo": 0.3,
+      "final": 0.55
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.2933,
+      "negativo": 0.0,
+      "final": 0.2933
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.32,
+      "negativo": 0.0,
+      "final": 0.32
+    },
+    "SAUDE": {
+      "positivo": 1.2267,
+      "negativo": 0.2833,
+      "final": 0.9433
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 1.8333,
+      "negativo": 0.0,
+      "final": 1.8333
+    },
+    "LEGAL": {
+      "positivo": 1.15,
+      "negativo": 0.0,
+      "final": 1.15
+    },
+    "INOVACAO": {
+      "positivo": 0.91,
+      "negativo": 0.0,
+      "final": 0.91
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 0.2667,
+      "negativo": 0.0,
+      "final": 0.2667
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 4.2167,
+      "negativo": 0.0,
+      "final": 4.2167
+    },
+    "ACIDENTE": {
+      "positivo": 0.25,
+      "negativo": 0.3,
+      "final": -0.05
+    },
+    "CAMPANHAS": {
+      "positivo": 0.5333,
+      "negativo": 0.3,
+      "final": 0.2333
+    },
+    "QUALIDADE": {
+      "positivo": 1.4767,
+      "negativo": 0.2833,
+      "final": 1.1933
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 1.2467,
+      "negativo": 0.0,
+      "final": 1.2467
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.6067,
+      "negativo": 0.0,
+      "final": 0.6067
+    },
+    "FRAUDE": {
+      "positivo": 0.3,
+      "negativo": 0.0,
+      "final": 0.3
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.3133,
+      "negativo": 0.3,
+      "final": 0.0133
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.1933,
+      "negativo": 0.5667,
+      "final": -0.3733
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.9667,
+      "negativo": 0.0,
+      "final": 0.9667
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.7667,
+      "negativo": 0.0,
+      "final": 0.7667
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.5767,
+      "negativo": 0.0,
+      "final": 0.5767
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.61,
+      "negativo": 0.0,
+      "final": 0.61
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.59,
+      "negativo": 0.0,
+      "final": 0.59
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 2.44,
+      "negativo": 0.2833,
+      "final": 2.1567
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.92,
+      "negativo": 0.0,
+      "final": 0.92
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.3167,
+      "negativo": 0.0,
+      "final": 0.3167
+    }
+  },
+  "Tecnologia_intervenção_vias_públicas.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 0.95,
+      "negativo": 0.2833,
+      "final": 0.6667
+    },
+    "EXPOSICAO": {
+      "positivo": 0.31,
+      "negativo": 0.5667,
+      "final": -0.2567
+    },
+    "SERVICOS": {
+      "positivo": 4.24,
+      "negativo": 0.2833,
+      "final": 3.9567
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 1.1,
+      "negativo": 0.0,
+      "final": 1.1
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 1.1333,
+      "negativo": 0.2833,
+      "final": 0.85
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.2667,
+      "negativo": 0.8667,
+      "final": -0.6
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 1.4667,
+      "negativo": 0.0,
+      "final": 1.4667
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 2.7567,
+      "negativo": 0.2833,
+      "final": 2.4733
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.5733,
+      "negativo": 0.2833,
+      "final": 0.29
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.8667,
+      "negativo": 0.8667,
+      "final": 0.0
+    },
+    "SAUDE": {
+      "positivo": 1.5533,
+      "negativo": 0.0,
+      "final": 1.5533
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 0.9133,
+      "negativo": 0.2833,
+      "final": 0.63
+    },
+    "LEGAL": {
+      "positivo": 0.3167,
+      "negativo": 0.5833,
+      "final": -0.2667
+    },
+    "INOVACAO": {
+      "positivo": 3.9933,
+      "negativo": 0.2833,
+      "final": 3.71
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 1.9767,
+      "negativo": 0.2833,
+      "final": 1.6933
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 1.5067,
+      "negativo": 0.2833,
+      "final": 1.2233
+    },
+    "ACIDENTE": {
+      "positivo": 0.5333,
+      "negativo": 0.2833,
+      "final": 0.25
+    },
+    "CAMPANHAS": {
+      "positivo": 0.8,
+      "negativo": 0.2833,
+      "final": 0.5167
+    },
+    "QUALIDADE": {
+      "positivo": 1.9933,
+      "negativo": 0.0,
+      "final": 1.9933
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.8933,
+      "negativo": 0.2833,
+      "final": 0.61
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 2.4667,
+      "negativo": 0.2833,
+      "final": 2.1833
+    },
+    "FRAUDE": {
+      "positivo": 1.1333,
+      "negativo": 0.5833,
+      "final": 0.55
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.9267,
+      "negativo": 0.0,
+      "final": 0.9267
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.1667,
+      "negativo": 0.2833,
+      "final": -0.1167
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 1.2467,
+      "negativo": 0.0,
+      "final": 1.2467
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.2333,
+      "negativo": 0.8,
+      "final": -0.5667
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 1.3567,
+      "negativo": 0.0,
+      "final": 1.3567
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.0,
+      "negativo": 0.3,
+      "final": -0.3
+    },
+    "INVESTIMENTO": {
+      "positivo": 2.05,
+      "negativo": 0.2833,
+      "final": 1.7667
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.6133,
+      "negativo": 0.0,
+      "final": 0.6133
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 3.3133,
+      "negativo": 0.2833,
+      "final": 3.03
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.6267,
+      "negativo": 0.0,
+      "final": 0.6267
+    }
+  },
+  "Temporal_destruição.txt": {
+    "FALTA DE AGUA": {
+      "positivo": 2.4633,
+      "negativo": 0.3167,
+      "final": 2.1467
+    },
+    "EXPOSICAO": {
+      "positivo": 0.2933,
+      "negativo": 0.2833,
+      "final": 0.01
+    },
+    "SERVICOS": {
+      "positivo": 2.6767,
+      "negativo": 0.3167,
+      "final": 2.36
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.3333,
+      "negativo": 0.2833,
+      "final": 0.05
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 0.2667,
+      "negativo": 0.3167,
+      "final": -0.05
+    },
+    "DIVIDA COM A UNIAO": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.3067,
+      "negativo": 0.3167,
+      "final": -0.01
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 0.63,
+      "negativo": 0.3167,
+      "final": 0.3133
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.0,
+      "negativo": 0.8833,
+      "final": -0.8833
+    },
+    "SAUDE": {
+      "positivo": 0.5833,
+      "negativo": 0.3,
+      "final": 0.2833
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 2.74,
+      "negativo": 0.3167,
+      "final": 2.4233
+    },
+    "LEGAL": {
+      "positivo": 0.25,
+      "negativo": 0.6,
+      "final": -0.35
+    },
+    "INOVACAO": {
+      "positivo": 0.0,
+      "negativo": 0.5667,
+      "final": -0.5667
+    },
+    "INFRAESTRUTURA VIARIA": {
+      "positivo": 1.2033,
+      "negativo": 0.3167,
+      "final": 0.8867
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.6133,
+      "negativo": 0.3,
+      "final": 0.3133
+    },
+    "ACIDENTE": {
+      "positivo": 0.6667,
+      "negativo": 0.6,
+      "final": 0.0667
+    },
+    "CAMPANHAS": {
+      "positivo": 0.5333,
+      "negativo": 0.2833,
+      "final": 0.25
+    },
+    "QUALIDADE": {
+      "positivo": 0.0,
+      "negativo": 0.3167,
+      "final": -0.3167
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.64,
+      "negativo": 0.3167,
+      "final": 0.3233
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 0.3267,
+      "negativo": 0.3167,
+      "final": 0.01
+    },
+    "FRAUDE": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.0,
+      "negativo": 0.2833,
+      "final": -0.2833
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.6333,
+      "negativo": 0.3167,
+      "final": 0.3167
+    },
+    "INSTITUCIONAL": {
+      "positivo": 0.0,
+      "negativo": 1.1167,
+      "final": -1.1167
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 2.8467,
+      "negativo": 0.3167,
+      "final": 2.53
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.0,
+      "negativo": 0.6,
+      "final": -0.6
+    },
+    "INVESTIMENTO": {
+      "positivo": 0.3167,
+      "negativo": 0.3,
+      "final": 0.0167
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 0.8733,
+      "negativo": 0.3,
+      "final": 0.5733
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 0.2867,
+      "negativo": 0.3167,
+      "final": -0.03
+    },
+    "PATROCINIO": {
+      "positivo": 0.8167,
+      "negativo": 0.0,
+      "final": 0.8167
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 2.5033,
+      "negativo": 0.3,
+      "final": 2.2033
+    }
+  },
+  "Trabalhador_morre_ETE.txt": {
+    "EXPOSICAO": {
+      "positivo": 0.6267,
+      "negativo": 0.3,
+      "final": 0.3267
+    },
+    "SERVICOS": {
+      "positivo": 2.0967,
+      "negativo": 0.0,
+      "final": 2.0967
+    },
+    "SUSTENTABILIDADE": {
+      "positivo": 0.3333,
+      "negativo": 0.3,
+      "final": 0.0333
+    },
+    "COLETA DE ESGOTO": {
+      "positivo": 1.52,
+      "negativo": 0.0,
+      "final": 1.52
+    },
+    "ABASTECIMENTO (MELHORIA)": {
+      "positivo": 0.6333,
+      "negativo": 0.0,
+      "final": 0.6333
+    },
+    "INFRAESTRUTURA SANEAMENTO": {
+      "positivo": 2.17,
+      "negativo": 0.0,
+      "final": 2.17
+    },
+    "NIVEL RESERVATORIOS": {
+      "positivo": 1.1667,
+      "negativo": 0.0,
+      "final": 1.1667
+    },
+    "DESESTATIZACAO (COPASA)": {
+      "positivo": 0.2833,
+      "negativo": 0.0,
+      "final": 0.2833
+    },
+    "SAUDE": {
+      "positivo": 0.3167,
+      "negativo": 0.2833,
+      "final": 0.0333
+    },
+    "QUALIDADE DA AGUA": {
+      "positivo": 0.9267,
+      "negativo": 0.0,
+      "final": 0.9267
+    },
+    "LEGAL": {
+      "positivo": 1.3667,
+      "negativo": 0.2833,
+      "final": 1.0833
+    },
+    "INOVACAO": {
+      "positivo": 0.2667,
+      "negativo": 0.0,
+      "final": 0.2667
+    },
+    "INVESTIMENTO INSTITUCIONAL": {
+      "positivo": 0.5833,
+      "negativo": 0.0,
+      "final": 0.5833
+    },
+    "ACIDENTE": {
+      "positivo": 0.9333,
+      "negativo": 0.5833,
+      "final": 0.35
+    },
+    "CAMPANHAS": {
+      "positivo": 0.5333,
+      "negativo": 0.3,
+      "final": 0.2333
+    },
+    "QUALIDADE": {
+      "positivo": 0.8667,
+      "negativo": 0.2833,
+      "final": 0.5833
+    },
+    "INVESTE ABASTECIMENTO": {
+      "positivo": 0.9133,
+      "negativo": 0.0,
+      "final": 0.9133
+    },
+    "INVESTE ESGOTO": {
+      "positivo": 2.78,
+      "negativo": 0.0,
+      "final": 2.78
+    },
+    "FRAUDE": {
+      "positivo": 0.8667,
+      "negativo": 0.2833,
+      "final": 0.5833
+    },
+    "MEIO AMBIENTE": {
+      "positivo": 0.3133,
+      "negativo": 0.3,
+      "final": 0.0133
+    },
+    "ACAO SOCIAL": {
+      "positivo": 0.8,
+      "negativo": 0.0,
+      "final": 0.8
+    },
+    "EMERGENCIA PUBLICA": {
+      "positivo": 0.6067,
+      "negativo": 0.0,
+      "final": 0.6067
+    },
+    "INSTITUCIONAL": {
+      "positivo": 1.9167,
+      "negativo": 0.0,
+      "final": 1.9167
+    },
+    "OBRAS ENCHENTES": {
+      "positivo": 0.2667,
+      "negativo": 0.0,
+      "final": 0.2667
+    },
+    "MERCADO FINANCEIRO": {
+      "positivo": 0.55,
+      "negativo": 0.0,
+      "final": 0.55
+    },
+    "INVESTIMENTO": {
+      "positivo": 2.6233,
+      "negativo": 0.2667,
+      "final": 2.3567
+    },
+    "RELACIONAMENTO COM CLIENTE": {
+      "positivo": 2.44,
+      "negativo": 0.2833,
+      "final": 2.1567
+    },
+    "INVESTE SANEAMENTO": {
+      "positivo": 1.18,
+      "negativo": 0.0,
+      "final": 1.18
+    },
+    "PATROCINIO": {
+      "positivo": 1.1,
+      "negativo": 0.0,
+      "final": 1.1
+    },
+    "EMERGENCIA ENCHENTES": {
+      "positivo": 0.3067,
+      "negativo": 0.0,
+      "final": 0.3067
+    }
+  }
+}
